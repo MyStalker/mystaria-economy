@@ -35,3 +35,8 @@ This repository is intentionally not a replacement for approved main-codex equip
 - [11 Mossback Yield, Slaughter and Ranch Throughput — DRAFT](11_Mossback_Yield_Slaughter_and_Ranch_Throughput_DRAFT.md): real-world-anchored 10t mass test, 4t edible meat, 8.8m kcal, 24h town distribution, feed/forage, breeding and staffing scenarios, explicit noncanon numeric assumptions
 
 - **[12 Economy Continuity Handoff — November 21, 2026](12_Economy_Continuity_Handoff_2026-11-21.md): START HERE IN A NEW CHAT.** Comprehensive approved canon, author proposals, superseded theories, exploratory figures, contradictions and to-do list across Canopy agricultural economy, Leshy, Starspawn Recall, Mossback livestock and reproduction.
+
+
+## New quantitative draft — Mossback growth curve (November 21, 2026)
+
+- [13 Mossback Growth Curve and Lifetime Feed DRAFT](13_Mossback_Growth_Curve_and_Lifetime_Feed_DRAFT.md) — elephant-anchored hypothetical 0–20-year mass trajectory, age-dependent feed model, provisional age-specific survival and complete 20-year industry feed/land pipeline. **No numerical rates are canon.**
