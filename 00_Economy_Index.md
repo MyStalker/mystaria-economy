@@ -17,3 +17,5 @@
 5. Historical Serpentari coin composition and remaining second minor currency, **OPEN**.
 
 This repository is intentionally not a replacement for approved main-codex equipment and magic mechanics.
+
+- [04 Three National Economies](04_Three_National_Economies.md): national living standards and Thornguard comparison households
