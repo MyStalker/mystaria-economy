@@ -54,3 +54,6 @@ This repository is intentionally not a replacement for approved main-codex equip
 
 
 - [18 Supplementary Forage and Mossback Sanctuary Costs DRAFT](18_Supplementary_Forage_and_Mossback_Sanctuary_Costs_DRAFT.md): unapproved Sunlace/Stonepod crop pricing, 70/25/5 blend, complete nursery staffing and cost/age-2 survivor. Earlier study 17 farm wages and Sunrush benchmark have latest author approval as economic reference; no actual silver coinage fixed.
+
+
+- [19 Enslaved Sanctuary Workforce and Meat Cost Sensitivity DRAFT](19_Enslaved_Sanctuary_Workforce_Meat_Cost_Sensitivity_DRAFT.md): compare paid 44-worker breeding sanctuary against hypothetical 9 paid guards/Nymbrin and 35 captive workers, with three provisioning-cost assumptions. Moderate scenario reduces sanctuary annual budget ~38.8% and partial feed-plus-sanctuary meat cost ~8.1%; figures are not approved or final retail prices.
