@@ -84,3 +84,8 @@ Existing five-person guard household sample income 3,000 units/year, annual groc
 - Source-product Starspawn recall status of milk and cheese; do NOT assume preserved dairy can be stored forever.
 - Confidence in 85% meat utilization before Recall, especially timely digestion.
 - Prospective niche of other domesticated dairy species or year-round milk if 24-mother Mossback sanctuary yields too seasonally.
+
+
+## November 21 — Canon clarification: living-harvest dairy persists
+
+**LATEST AUTHOR APPROVAL:** Milk and fur harvested from a living Starspawn are independent persistent materials; **source animal's later death and Celestial Recall do not remove them**, and ordinary cheese/whey made from the milk and textile items from the fur also persist. This SUPERSEDES the earlier OPEN question in this document about the persistence of previously harvested dairy. Normal dairy spoilage/aging/production costs and physical managmin accounting still apply. This does NOT alter the existing 24h Recall for non-assimilated meat/carcase after death. The Starspawn fur/hide industry requires live-harvest source/consent context; unspecified other bodily materials are not automatically included. For proposed town feast and household budget pricing, see [23 Canopy Meat Day and Household Affordability DRAFT](23_Canopy_Meat_Day_and_Household_Affordability_DRAFT.md). The older dairy yield, household milk price and near-market steak prices remain proposed numeric scenarios.
