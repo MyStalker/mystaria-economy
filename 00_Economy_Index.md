@@ -43,3 +43,6 @@ This repository is intentionally not a replacement for approved main-codex equip
 
 
 - [14 Sunrush Forage and Supplement Crop Models DRAFT](14_Sunrush_Forage_and_Supplement_Crop_Models_DRAFT.md): proposed Sunrush/legume/mineral feed fractions, usable forage yield sensitivity and full-industry land comparisons. Mossback growth weights in study 13 are author-approved benchmarks; the crop mix/yields in 14 are not yet canon.
+
+
+- [15 Managmin Nutrition and Mossback Feed DRAFT](15_Managmin_Nutrition_and_Mossback_Feed_DRAFT.md): author-proposed 50/12.5% affinity diet, evenly split Moontouched, optional deficiency tolerances, unapproved plant color profiles and ingredient-count schema.
