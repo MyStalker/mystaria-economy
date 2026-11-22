@@ -69,3 +69,6 @@ This repository is intentionally not a replacement for approved main-codex equip
 
 
 - [23 Canopy Meat Day and Household Affordability DRAFT](23_Canopy_Meat_Day_and_Household_Affordability_DRAFT.md): proposes 400g per person community meat day, one eight-year 4.8t Mossback supplying ~4,080 portions if 85% of 40% edible yield assimilated, and recalibrating guard-family food expense to roughly 1,200–1,300 silver accounting units/y rather than insisting on outdated generic 0.70-unit/kg meat. Contains draft 3.20-unit/kg retail and savings sensitivity. Also records author-approved lifetime persistence of Starspawn milk and fur harvested while source remains alive.
+
+
+- [24 Noble Meat Day Subsidy and Household Purchasing Power DRAFT](24_Noble_Meat_Day_Subsidy_and_Household_Purchasing_Power_DRAFT.md): user-approved noble sponsorship in most Canopy territories covers about half of communal Mossback Meat Day prices, with more for food-insecure families; model shows 4,000-town lord spends illustrative 133,120 silver accounting units yearly at 400g weekly meals and 3.20/unit kg full retail. Fiscal sustainability and event names open.
