@@ -51,3 +51,6 @@ This repository is intentionally not a replacement for approved main-codex equip
 
 
 - [17 Canopy Wages and Sunrush Farmgate Pricing DRAFT](17_Canopy_Wages_and_Sunrush_Farmgate_Pricing_DRAFT.md): trial ordinary field worker 9 silver accounting units/day versus Thornguard guard 12.5 and free Leshy 27; full 100ha Sunrush costed farm budget and specialist Tidekin water sourcing vs distribution. These silver numbers and cost categories are NOT canon.
+
+
+- [18 Supplementary Forage and Mossback Sanctuary Costs DRAFT](18_Supplementary_Forage_and_Mossback_Sanctuary_Costs_DRAFT.md): unapproved Sunlace/Stonepod crop pricing, 70/25/5 blend, complete nursery staffing and cost/age-2 survivor. Earlier study 17 farm wages and Sunrush benchmark have latest author approval as economic reference; no actual silver coinage fixed.
