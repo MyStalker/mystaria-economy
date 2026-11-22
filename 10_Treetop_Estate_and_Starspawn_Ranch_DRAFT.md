@@ -70,3 +70,7 @@ Ledger headings, currently **unknown** and must be answered before price:
 4. Estimate water availability (daily rainfall, cistern capacity, pump/canal lifts, storage) and cost to operate treetop crops.
 5. Estimate annual crop maintenance worker-days per hectare, with Leshy 5x planting only, seasonal workforce peaks and clockwork harvesters.
 6. Reconcile the model to Canopy grocery price and managmin scarcity target (meat roughly 2x scarcer and <=4x costly relative to selected comparator, staple, red managmins).
+
+## November 21, 2026 — Mossback name canonized (ONLY the name)
+
+**AUTHOR APPROVAL:** The prospective giant triceratops-like green-Starspawn livestock species is called **Mossback**. This replaces the provisional labels “green herdbeast” and “Sporehorn” in future discussion. The user's next step is to review **all other species details**. Descriptions previously proposed or user-explored (elephant-like herds, spores, Leshy immunity, green/red managmins, milk, solar feeding, mechanical herding, native plains habitat, etc.) are **pending final individual review** and must not be promoted by this name decision. All numerical farm and ranch studies remain draft.
