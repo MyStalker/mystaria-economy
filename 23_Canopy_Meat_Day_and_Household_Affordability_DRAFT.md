@@ -44,3 +44,8 @@ Example **1kg Mossback per week** +3kg generic 0.70 at 3.2 Mossback = new grocer
 
 ## Open canon/numeric decisions
 85% actual biological assimilation prior to Recall; 40% edible yield; 6.25yr mother cycle; 40,000L surplus milk per maternal Bloom; 0.2-unit milk wholesale; 3.2/kg town meat retail, 0.7/kg generic meat; other food baskets/prices; animal-slaughter labor and worker protections; exact living-product definition for products other than milk and fur (user expressly approves those two, NOT all live-harvest materials); whether 400g weekly portion reflects individual race diet; cheese managmin density/yields.
+
+
+## Author update: noble sponsorship APPROVED, financial variables still DRAFT
+
+The author establishes Meat Day as culturally significant in most Canopy noble territories, usually **approximately 50% lord-funded**, with **more for households experiencing food insecurity**, subject to later noble fiscal affordability. This supplements the older unsponsored event cost comparisons here, not overwrite original baseline history. See [24 Noble Meat Day Subsidy and Household Purchasing Power DRAFT](24_Noble_Meat_Day_Subsidy_and_Household_Purchasing_Power_DRAFT.md) for illustrative 3.20 price/kg, 1.60 lord share/kg, 133,120 annual subsidy for all 4,000 town residents at weekly 400g each, and household budget cash-envelope with contingency falling from 1,261.832 to 1,078.792, savings rising from 43.168 to 226.208. Actual household price discount is 166.4/year, not 183.04/year: latter includes adjusted 10% future food-cost contingency. Official festival name, noble sustainability and higher hardship coverage remain open.
