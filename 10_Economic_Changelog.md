@@ -15,3 +15,7 @@
 **Not yet canonized as quantitative rules:** wage schedules, cost-of-living baskets, ounces-to-colors values, Scarlands Vitae extraction yields, silver/gold weights, Scales redemption, Gem-mortal conversion, exact slavery demographics, second minor currency, non-Hero XP/progression formulas.
 
 **Integration:** Cross-reference [mystaria-codex](https://github.com/MyStalker/mystaria-codex) as mechanical canon and resolve any conflict before claiming new numbers are approved.
+
+## 2026-11-21 — National living standards and Canopy study subjects
+
+**Author-described direction:** Free Imperium residents, even poorer ones, possess near-modern luxuries; Canopy freefolk enjoy idyllic, ordered fantasy prosperity supported by automation and systematic slavery; Scarlands wealth is extremely concentrated and freedom insecure, described as anarchocapitalist in character. First comparative study switches from Kharak to a **middle-class, non-noble free Thornguard** and a **better-off non-noble Thornguard with enslaved Bloomkin**. Wage rates, household size, enslaved-person counts, and precise markets are **OPEN**. See [04 Three National Economies](04_Three_National_Economies.md).
