@@ -1,0 +1,92 @@
+# Mossback Meat Yield, Recall Distribution, and Ranch Throughput — DRAFT
+
+**Date:** 2026-11-21. **ALL Mossback physical mass, yield, calories, feed, reproduction, lactation, headcounts, staffing, area, market and financial outputs in this file are illustrations for user review, not approved species canon.** The species name **Mossback** alone is explicitly canonized in [01 World and Shimmer](https://github.com/MyStalker/mystaria-codex/blob/main/01_World_and_Shimmer.md). The user's earlier detailed physical/ecological conception remains under review rather than newly ratified by this calculation. Existing approved generic Starspawn Recall law governs.
+
+## 1. Evidence and meat output
+
+External anatomical anchors:
+- McGill Redpath Museum: Triceratops adult weight approx **6–12 tonnes**: https://www.mcgill.ca/redpath/learning-services/resources/dinosaurs/triceratops
+- Mississippi State University Extension: edible take-home beef roughly **40% of live weight** (depending on bone-in, trim and fat): https://extension.msstate.edu/publications/how-much-meat-expect-beef-animal-farm-direct-beef
+- South Dakota State University Extension (2026 butcher guide): average beef dressing **60–65%** then retail cuts **60–70% of carcass**: https://extension.sdstate.edu/sites/default/files/2026-03/P-00327-v2.pdf
+- Ordinary beef cuts range in calorie density; use **2,200 kcal/kg raw edible mixed cuts**, not canonical Mossback nutrition or managmin content. Leaner 1,500; fattier 2,700 scenarios: https://fdc.nal.usda.gov/food-search
+
+**Mature Mossback working assumption:** 10 metric tonnes live, sensitivity 8–12t; edible boneless meat yield 40% nominal, sensitivity 30–45% because specialized armor/frill/horns. Meat 2.2 kcal/g = 2,200 kcal/kg, sensible 1,500–2,700.
+
+| Live weight | Edible fraction | Edible mass | At 2,200 kcal/kg |
+|---:|---:|---:|---:|
+| 8t | 40% | 3,200kg | 7.04 million kcal |
+| **10t** | **40%** | **4,000kg** | **8.80 million kcal** |
+| 12t | 40% | 4,800kg | 10.56 million kcal |
+| 10t, lean yield | 30% | 3,000kg | 6.60 million kcal |
+| 10t, high meat yield | 45% | 4,500kg | 9.90 million kcal |
+
+**If only 70% of nominal edible mass is actually sold and eaten before Recall,** useful delivered meat = **2,800kg**, energy = **6.16m kcal**, unsold meat = **1,200kg** (to be rapidly consumed, red-carnivorous-plant assimilated at high loss, or vanish). The 70% clearance rate is arbitrary, not canon.
+
+- 4,000kg / 0.25kg = **16,000 quarter-kg servings**, each about 550 kcal of meat.
+- 4,000kg / 0.4kg = **10,000 very generous 400g servings**, 880 kcal each.
+- In a 4,000-person town: **1kg raw meat per resident** available gross from one slaughter; in a 10,000-person market region: **0.4kg per resident** gross.
+- Slaughtering one animal would create a major municipal distribution/culinary occasion. Butchering and event are separate from the animal's death; most Starspawn dread the killing and retain memories.
+- Process 4,000kg meat over **12 hours -> ~333kg/hour**, 16h -> 250kg/h. Twenty booths would each sell **~16.7kg/hr** over 12h; must deliver, portion, cook and digest enough before Recall. Rough division doesn't account for workers, movement time, food safety, chilling or consumers who won't participate.
+- **Critical ingestion caveat**: approved exception protects **already assimilated** nourishment, not merely meat swallowed seconds before Recall. End cooking/distribution early enough for biological assimilation, or accept losses.
+
+**Food-safety caveat:** Author previously gave roughly 8h unrefrigerated spoilage concern, but USDA/FDA/CDC food-safety guidance generally says raw perishable meat must be held chilled and not kept at room temperature longer than **2 hours** (or 1 hour in hot >90°F conditions): https://www.fda.gov/food/buy-store-serve-safe-food/refrigerator-thermometers-cold-facts-about-food-safety . Do NOT claim 8 hours unrefrigerated raw meat is safe; Mystaria setting microbes/food-safety technology may differ. Cold chain prevents bacterial hazards but NEVER delays Astral Heart Recall.
+
+## 2. Basic event schedule, not a fixed rule
+- Pre-slaughter: reserve communal eating capacity, pre-sell portions, enlist butchers, plan branch lifts/hoists, secure meat transport, prepare chilled rooms and kitchens.
+- Hour 0: slaughter, with toxic spores and other physical danger requiring protected handlers (specific Mossback spores still pending full species approval).
+- Hours 0–4: rapid skinning, deboning, cut sorting, cold storage, plant salvage staging and lift allocation (actual achievable processing rate is unverified).
+- Hours 4–16: market sale, prepared meals, distributed kitchen deliveries, regional cart transports under stringent time limits.
+- Hours 16–22: last consumption, digestion margin and salvage by carnivorous plants **only if their metabolism completes assimilation in time**.
+- ~Hour 24: any remaining unassimilated Starspawn flesh vanishes, including frozen meat. No long-distance stockpiling.
+- Event could be festive to civilians and traumatic to Starspawn and dissenters; do not treat involuntary slaughter as consent or the event as execution celebration.
+
+## 3. Herd feeding and sunlight (species assumptions under review)
+
+Pending author review, Mossbacks conceptualized as approximately elephant-like triceratops-sized *green-affinity* herd animals, potentially deriving **half their energy from sunlight**, while physically needing water, dietary materials, minerals and appropriate green vegetation. This has NOT been finalized mechanically.
+
+Real elephants eat roughly **1–2% of body weight as dry matter per day**, sometimes 150–300kg fresh plant matter for much smaller body mass: https://ielc.libguides.com/sdzg/factsheets/african_elephant/diet and https://www.sanparks.org/conservation/parks/kruger/letaba-elephant-hall/learn-more/faq
+
+**Illustrative 10t Mossback without photosynthesis:** 1.5% live mass = **150kg dry feed-equivalent/day**.
+**At speculative 50% energy contributed by sunlight**: approx **75kg dry feed energy-equivalent per day**, or **27.375 tonnes dry feed per year**. This DOES NOT mean half of physical dietary minerals/protein/fiber/water can be waived. Depending on feed, ~75kg dry matter corresponds to ~200–375kg fresh forage/day at 20–38% dry matter; 300kg at 25% dry matter is easy mental benchmark. Direct light, open-canopy clearing, seasonal cloud cover and underforest conditions affect production.
+
+**Twenty 10t adults:** 20×75kg dry-equivalent/day = **1.5 tonnes dry-equivalent/day**, **547.5 tonnes dry-equivalent/year**, not counting juveniles, nursing/lactating animals, or 60 different recurring-product animals from the broader trial ranch. The 30ha of feed crops at hypothetical 4t/ha provides **120 tonnes gross dry feed**, leaving **427.5 tonnes dry-equivalent/year** from browse/pasture/imports. At speculative usable forage 2.5–6t dry equivalent per ha/year: **~71–171ha forage land**, additional to 30ha crop feed and open-sun movement/enclosure/lanes. The ranch might need **~100–250ha occupied or supported land** depending on forage yield, loading, shielding, available browse, offsite purchases and rotation; not an approved biological carrying capacity. Crop feed/forage photosynthetic energy conversion may be less efficient or different than numeric half.
+
+**Water sensitivity:** At *illustrative* **100–250 liters/head/day** for 20 giant adults, 2,000–5,000 liters/day before smaller stock, washing, irrigation for food production, medical and firefighting needs. Needs own species-water constraints. Elephant watering numbers vary: https://nationalzoo.si.edu/animals/asian-elephant-faqs.
+
+## 4. Meat cadence and community demand
+The earlier experimental regional diet demand totals 10,000 people (4,000 urban + 6,000 rural) with distinct physiology and major Centaur intake. If every resident receives **200g of Mossback meat per WEEK** (NOT a complete diet, no race adjustment):
+- 10,000 × 0.2kg ×52 weeks = **104,000kg = 104 tonnes/year** edible meat.
+- At **4,000kg per animal**, requires **26 Mossback slaughters/year**, before carcass clearance losses.
+- At **70% consumer clearance**, **~37.14 Mossback slaughters/year** (practically 38), roughly one every **9–10 days**.
+- Serving only 4,000 town residents at 200g/week = **41.6t/y**, requiring ~10.4 full-clearance adults, or ~14.86 at 70% clearance.
+- One Mossback event supplies a whole 10,000-person region with that 200g weekly meat ration for **two weeks** if gross 100% utilized, or **1.4 weeks** at 70% utilized.
+- Centaurs may consume much more than this flat weekly allotment; therefore these counts are only planning anchors, **not proof the food needs or red-managmin demand are met**.
+- Animal product demands also include eggs/dairy from other Starspawn and dietary diversity.
+
+## 5. Breeding and herds
+- A 20-adult ranch cannot simply slaughter all 20 yearly and expect them back. Slaughtered Mossbacks **do not return to the former farm**; post-Recall reentry can take a season or years/centuries and typically somewhere in regional habitat, not necessarily with former owner.
+- If a 20-adult ranch **sells/slaughters 4 adults per year**, gross meat output ~16t/y, before consumer sale loss; ~11.2t/y realized at 70% uptake. This represents **20% annual adult herd turnover** and needs ~4 mature replacements/year plus other losses. A sustainable breeding rate this high is **not established** for elephant-like megafauna.
+- Real elephant reproductive comparator: gestation ~22 months, inter-birth interval often **3–8 years**, and maturity ~8–13 years depending on sex/conditions: https://nationalzoo.si.edu/animals/asian-elephant . One hypothetical female may deliver only 0.125–0.333 young/year, with years needed to raise a mature 10t adult. A herd of twenty adults cannot assume rapid replacement or quick adult fattening.
+- More conservative herd scenarios might yield **one or two mature animals annually** after investment in reproduction, or require continual **capture/hunts and purchases** to keep up with higher meat demand, additional juveniles and breeding stock. A ranch might prioritize milk/draft services over slaughter because these preserve productive capital.
+- Ranch managers may seek captured adult animals, but this presents severe safety/security/labor costs and ethical harms. The number of minds manageable per ton of meat is low, but the consequences of one organized rebellion are disproportionately large.
+
+## 6. Staffing and hazard scope (headcount proposal)
+For 20 large Mossbacks plus 60 smaller recurring-product Starspawn, **tentative 25 people + 10 mechanical Windlings**:
+- 5 Cogmarshals / control officers, enabling coverage of day/night shifts, days off and supervision.
+- 3 Leshy green-plant, grazing-ground and husbandry specialists (species immunity to toxic spores is an author proposal still under review as final dossier).
+- 8 conventional stock attendants and veterinary/nutrition staff, assigned to safe-zone procedures.
+- 4 machinery, Windling, enclosure/irrigation maintenance staff.
+- 5 security, logistical, milk/fiber handling and transport coordinators.
+- 10 Windling herding machines, not people. Includes simultaneous active devices and reserve/maintenance units, actual machines/handling rules not yet calibrated.
+- Additional **slaughter-event butchers, carriers, cooks, guards and refrigeration operators** are drawn from town and other businesses; not silently included in 25 ranch full-time people. An assembly line for 4t meat must be demonstrated by equipment/labor rates.
+
+**Economic conclusion (tentative):** The Mossback is a huge single slaughter output but potentially **low sustainable slaughter frequency per managed herd** due to slow breeding, arduous post-Recall retrieval, giant feed requirements, worker safety and containment. Community meat markets thus have scheduled bursts of abundance rather than instant permanently stored surplus. The previous district 30–40km² agricultural-land target may understate animal forage and biomass expenses, especially if hundreds of adult Mossbacks are demanded each year.
+
+## 7. Decisions needed
+1. Mature Mossback mean adult weight (e.g. 8, 10, 12t); physical edible mass fraction/fat density and natural managmin ratios.
+2. Is conceptual half-energy sunlight intake approved species mechanics? Does milk production and draft work increase supplemental requirements?
+3. Female fertility, maturity age, birth interval, juvenile rearing, typical herd size, lactation and whether sexes differ greatly.
+4. Typical herd security staffing, Windling/cogmarshal capabilities, land clearance, and waste handling.
+5. Actual food preference, culinary norms, red-managmin requirement per race and meat portion frequency.
+6. Exact Recall nutritional-assimilation cutoff and red-carnivorous-plant salvage time/yield.
+7. Shift/cold-chain safety and whether refrigerated processing affects biological assimilation (it does not alter Recall timer).
