@@ -48,3 +48,6 @@ This repository is intentionally not a replacement for approved main-codex equip
 - [15 Managmin Nutrition and Mossback Feed DRAFT](15_Managmin_Nutrition_and_Mossback_Feed_DRAFT.md): author-proposed 50/12.5% affinity diet, evenly split Moontouched, optional deficiency tolerances, unapproved plant color profiles and ingredient-count schema.
 
 - [16 Sunrush 100ha Labor and Irrigation Budget DRAFT](16_Sunrush_100ha_Labor_and_Irrigation_Budget_DRAFT.md) — new unapproved ordinary/Leshy worker-hour estimates, specialist-wage sensitivity, machine harvest labor, and capacity-equivalent Tidekin-vs-aqueduct water example. Labor units are not currency.
+
+
+- [17 Canopy Wages and Sunrush Farmgate Pricing DRAFT](17_Canopy_Wages_and_Sunrush_Farmgate_Pricing_DRAFT.md): trial ordinary field worker 9 silver accounting units/day versus Thornguard guard 12.5 and free Leshy 27; full 100ha Sunrush costed farm budget and specialist Tidekin water sourcing vs distribution. These silver numbers and cost categories are NOT canon.
