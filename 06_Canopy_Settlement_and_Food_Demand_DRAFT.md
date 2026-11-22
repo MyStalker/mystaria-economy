@@ -54,3 +54,27 @@ This changes demand only and does not include possible Leshy farm productivity. 
 
 ## Important scope control
 Do not assign farm counts by dividing total dietary energy by an invented farm output. First choose crop/product mix, yields, farm size and actual commercial surplus. Separate a farm's capacity to feed people from its profitability and ownership regime.
+
+## November 21 — Leshen foundation promoted to approved canon
+
+**The foundational Leshen/Leshy race and economic role are NOW APPROVED and live in the primary codex**: [38 Leshen Foundations](https://github.com/MyStalker/mystaria-codex/blob/main/38_Leshen_Leshy_Foundations.md). The earlier "hypothetical Leshy (UNAPPROVED RACE)" section above is **superseded only for foundational identity, photosynthetic diet, Canopy homeland, plant-magic affinity, Haze sensitivity and broad Scarlands/Canopy economic role**. It remains explicitly a **proposal** regarding any percentages, productivity, crop yield, price, playable stat, or specific Magic Craft operation.
+
+**Approved details:** ~2.5-foot Leshen/Leshy plant folk, photosynthetic/no ordinary meals; magic manipulates plants, specialization still to develop. Principal homeland Canopy; Leshy cultivation and clockwork potentially compete with Imperial Worldspindle agriculture. Scarlands horticultural and alchemical need, greenhouse confinement, hidden/subterranean cave gardens and persistent demand for rare ingredients. Leshy Haze sensitivity impairs their magic particularly strongly without rapid automatic death. Trade relationship and contested knightly protection/recovery orders are part of setting. The actual share of Leshy in our example settlement is still UNDECIDED.
+
+## Agricultural throughput stress test (DRAFT, not endorsed yield mechanics)
+
+If a *hypothetical* 10,000-person mixed market region without food-exempt residents requires the earlier 10.4286 billion gross-purchase-equivalent kcal per year, and **half** of purchased calories were supplied by edible grain, that grain portion is ~5.2143 billion kcal, or about **1,490 tonnes** of grain at 3,500 kcal/kg **at final consumer purchase**.
+
+For an illustrative **80% net delivery from gross farm harvest after seed, storage, milling loss, and other upstream deductions**, gross grain harvest required is ~1,863 tonnes. Illustrative wheat yields (tonnes grain/ha cultivated/year):
+| Hypothetical gross yield | Cultivated grain hectares | Typical 50-hectare *grain-area* units |
+|---:|---:|---:|
+| 2 t/ha | ~931 ha | ~19 |
+| 3 t/ha | ~621 ha | ~13 |
+| 4 t/ha | ~466 ha | ~10 |
+| 6 t/ha | ~310 ha | ~7 |
+
+The 50-ha figures represent **grain-cropped area**, NOT fully specified farm holdings. Additional vegetable, orchard, grazing, feed crop, hay, woodland, farm infrastructure and reserve lands are NOT included. A Leshy food-exempt share or different food diet modifies demand. The **80%** supply chain coefficient is entirely hypothetical and should not be confused with the consumer-side **30% food loss allowance** already included in gross-purchase demand: these are two sequential, conceptually different stages, and could overlap if the initial consumer food basket had already incorporated retailer losses. This hypothetical uses a purchased grain calorie share rather than treating grain as entire diet.
+
+Real-world context for plausibility comparisons only: USDA 2024/25 global wheat yield around **3.57 metric tonnes per hectare** (USDA FAS July 2024), with historical medieval farm yields considerably lower and variable. Canopy magically enhanced gross yields require later author approval.
+
+**Next investigation:** split local rural residents by occupation and food requirements; select fraction of edible energy from crops vs animal products; decide typical property sizes and farm density, share of agriculture done by free/enslaved/Leshy labor, and practical Leshy/clockwork yield enhancements. Avoid assuming an 80% food delivery rate or 50% grain calories as canon.
