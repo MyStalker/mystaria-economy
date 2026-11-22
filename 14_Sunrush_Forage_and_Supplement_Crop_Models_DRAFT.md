@@ -40,3 +40,10 @@ Breeding sanctuary selling age-two young needs ~1,430t buffered feed annually un
 
 ## Explicitly unresolved
 Approve/reject new names Sunlace Clover and Stonepod Reed, whether the proposed 70/25/5 diet is nutritionally sensible, the three usable yield cases, managmin feeding, sunlight-energy effect and reconciliation with food dry mass, adult support herd counts, age-specific losses, care labor, water, land rights and price ladder. No universally fixed feed cost or botanical power has been canonized.
+
+
+## 2026-11-21 — AUTHOR CORRECTION: MANAGMINS ARE ALL NUTRITION; KHARAK RED AFFINITY
+
+Approved: Kharak have **Red mana affinity**, superseding older racial notes of unresolved color; there are **no independent in-world calories, protein, vitamins or nutritional minerals**, because dietary **managmins replace all those requirements**. These terms in older economic models are real-world modeling analogues only and cannot become a separate additional nutritional ledger. Approved energy unit: **1 managmin = 1 food Calorie (1 kcal)** as an external calibration. This is distinct from the physical science small calorie. No food-density value automatically follows without a reference energy per mass. 
+
+Napier grass at published average 8.7 MJ metabolizable energy/kg dry matter gives a **PROPOSED** Sunrush density ~2,079 managmins/kg dry or ~940 per dry lb, and with hypothesized 20% dry fraction ~190 per fresh lb. The previously *unapproved* Sunrush composition 5% Red/10% Blue/65% Green/12% White/8% Black implies approximately 47/94/611/113/75 managmins per 940-managmin dry lb. Density, color profile and hydration are NOT approved just by approving the unit. Reference: https://pmc.ncbi.nlm.nih.gov/articles/PMC10682400/ . Published experimental adult 75kg daily dry-feed equivalent would imply ~156k consumed managmins/day for an all-Sunrush density-equivalent ration, before optional photosynthetic inputs, milk, mixed feed densities and growth modifiers. **No official total daily RDA is settled.** Review draft [15 Managmin Nutrition](15_Managmin_Nutrition_and_Mossback_Feed_DRAFT.md) for numerical choices awaiting approval.
