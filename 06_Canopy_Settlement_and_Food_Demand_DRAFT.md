@@ -1,0 +1,56 @@
+# Canopy Market-Town Population and Agricultural Demand — DRAFT
+
+**Status:** Exploratory model. Neither the market town's population nor Leshy are author-approved canon. Main mechanical/lore authority remains [mystaria-codex](https://github.com/MyStalker/mystaria-codex).
+
+## User-stated research order (2026-11-21)
+Begin with **town population, urban footprint, and surrounding market population**, then extrapolate grocery demand before estimating output per farm and the number of farms required. This supersedes jumping immediately to isolated farm finances.
+
+## Historical analogues, for scale only
+Published historical research describes a substantial class of small medieval market towns around 2,000–6,000 residents (Jedwab et al., GWU working paper, https://www2.gwu.edu/~iiep/assets/docs/papers/2020WP/JedwabIIEP2020-9.pdf); estimated Pompeii near ~10,000 inhabitants within ~60 ha (https://pmc.ncbi.nlm.nih.gov/articles/PMC8773449/). Neither implies one mandatory Canopy town size, density, or institution.
+
+## Proposed representative town (NOT CANON)
+- Built-up town: **4,000 people**.
+- Settled surrounding market catchment: **6,000 rural people**, total **10,000** residents.
+- Indicative town footprint: **0.5–1.0 square km**, or 50–100 ha. Footprint includes roads, courtyards and some public gardens but **not full agricultural catchment**.
+- This permits town guard, several clothiers, public baths, local noble house, crafts, markets and festivals without presuming large metropolis.
+- Set explicit household/race/status demographics later; 10,000 human-like consumers is only an initial reference, not an actual count of food-demanding adults.
+- The rural population produces some food it directly consumes. Do not count regional production sold in town and producer-consumed output as independent duplicate demands.
+
+## Preliminary provisioning math (PROPOSED proxy)
+- Human-analogue average: **2,000 kcal/person/day**, not approved racial or managmin physiology.
+- 30% of purchased energy allowance unavailable to target dietary intake due to spoilage, scraps and consumption exceeding target; effective factor 0.70.
+- Annual purchased-energy equivalent: `N * 2000 * 365 / 0.7`.
+- Town alone N=4,000: **4.1714 billion kcal equivalents per year**.
+- Region N=10,000: **10.4286 billion kcal equivalents per year**.
+- Expressed as mass of hypothetical all-grain supply at 3,500 kcal/kg: approximately **1,192 tonnes town**, **2,980 tonnes region** annually. This is not actual crop mix or area requirement.
+- Provisional household food-price contingency is 10% of baseline expenditure, **not** automatic increase in edible energy or crop harvest.
+- Use calorie throughput only as temporary accounting until the five managmin dietary demands are defined.
+
+## Hypothetical Leshen / Leshy (UNAPPROVED RACE)
+Author is exploring a new smallest Mystaria race called **Leshen**, colloquially **Leshy**, about **2.5 feet** tall, plant people who do not eat conventional food because they subsist through photosynthesis. Their magic enables manipulation of plants and could improve Canopy agricultural productivity dramatically. Potential interaction with **clockwork harvesting machines** could narrow the gap between Canopy and Imperial (Worldspindle-enabled) food prices.
+
+**Do not mark Leshy as canon or specify their mana/skill costs, racial stats, literal diet exceptions, magic magnitude, throughput or harvest yields until approved.** Photosynthesis still plausibly requires light, water, atmospheric carbon, mineral resources and growing space unless Mystaria magic explicitly waives these requirements.
+
+### Leshy demand sensitivity
+At 10,000 residents, using the same 2,000-kcal/person/day proxy for food-eating persons:
+| Food-exempt population share | Food-consuming population | Annual purchased kcal equivalent |
+|---:|---:|---:|
+| 0% | 10,000 | 10.429 billion |
+| 5% | 9,500 | 9.907 billion |
+| 10% | 9,000 | 9.386 billion |
+| 20% | 8,000 | 8.343 billion |
+
+This changes demand only and does not include possible Leshy farm productivity. A 5% Leshy share is not a claim about demographics.
+
+## Agricultural supply and price investigation backlog
+1. Determine relative shares of free Thornguard, enslaved Bloomkin, Leshy if approved, and other races across town/countryside; household consumption differs by race and age.
+2. Town housing density, landlords, civic spaces, homes and outlying villages; catchment travel times and delivery frequencies.
+3. Crop calendar, land uses and proportional diet: field grain, vegetables, orchards, animal products, fishing, imports.
+4. Realized yields and farm acreage before/after clockwork harvesters; distinguish labor savings from crop-yield increases.
+5. Leshy plant magic: area affected, growth acceleration, regeneration, water/soil input, mana/energy costs, labor and equipment support.
+6. Seed retention, animal feed, farm household consumption, spoilage, transport and merchant margins; compare gross harvest with market surplus.
+7. Separate retail food price comparison against Imperium from agricultural cost comparison, accounting for wages and exchange rates.
+8. Managmin food profiles and dietary ratios remain a later separate design study.
+
+## Important scope control
+Do not assign farm counts by dividing total dietary energy by an invented farm output. First choose crop/product mix, yields, farm size and actual commercial surplus. Separate a farm's capacity to feed people from its profitability and ownership regime.
