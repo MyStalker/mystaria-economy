@@ -23,3 +23,5 @@ This repository is intentionally not a replacement for approved main-codex equip
 - [05 Canopy Household Budgets — DRAFT](05_Canopy_Household_Budgets_DRAFT.md): five-person Thornguard town guard household, proposed silver budget, and five-Bloomkin dressmaking comparison
 
 - [06 Canopy Settlement and Food Demand — DRAFT](06_Canopy_Settlement_and_Food_Demand_DRAFT.md): reference town population, urban footprint, rural market catchment, provisioning math, and hypothetical Leshy productivity
+
+- [07 Canopy Farm Footprint — DRAFT](07_Canopy_Farm_Footprint_DRAFT.md): experimental rural demographics, regional food flow, land-use classes, cultivation and pasture footprint, yield sensitivities
