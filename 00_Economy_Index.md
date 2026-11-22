@@ -29,3 +29,5 @@ This repository is intentionally not a replacement for approved main-codex equip
 - [08 Canopy Workforce and Treetop Urbanism — DRAFT](08_Canopy_Workforce_and_Canopy_Urbanism_DRAFT.md): rural workforce scenarios, Leshy urban/rural occupations, noble-directed labor transfers, clockwork efficiency sensitivity
 
 - [09 Equatorial Treetop Agriculture — DRAFT](09_Equatorial_Treetop_Agriculture_DRAFT.md): sunlit canopy farms, crop–tree fusion, task-specific Leshy cultivation, soil and irrigation logistics, revised area accounting
+
+- [10 Treetop Estate and Starspawn Ranch — DRAFT](10_Treetop_Estate_and_Starspawn_Ranch_DRAFT.md): 300-ha crop split, water-demand test, trial workforce, product throughput, ranch security/feed/Recall ledger; all numbers experimental
