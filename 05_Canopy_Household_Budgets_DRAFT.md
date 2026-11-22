@@ -45,3 +45,37 @@ Separate household budget from business income statement:
 - Canopy silver/gold denominations and weights; reference location, actual guard salary, tax and public services; food basket; actual housing rents/values and availability; household ages.
 - Worker productivity, dressmaking garment output, retail prices and fabric cost; wages of skilled free needleworkers; nature of Bloomkin inheritance obligations and ownership; business financial performance.
 - Scarlands vs Imperium comparison in comparable baskets and market exchange rates.
+
+## Momma Thornkin grocery basket — 2026-11-21 calibration draft
+
+**PROPOSED, NOT APPROVED.** Household A is a five-person Thornguard household (two adults, three children for this exercise) relying on one town-guard cash income. Father physically active: 3,000 kcal/day; mother 2,400; older/middle/younger child 2,000/1,700/1,200. Target total 10,300 kcal/day. These are provisional human-analog needs, NOT confirmed racial-specific nutrition.
+
+**User-directed loss/excess:** Provision at least 30% of purchased food as spoilage, scraps, or eating beyond intended nutritional targets. For the budget test, model 30% of calories unavailable to intended target, thus target purchases 10,300/0.7=14,714 kcal/day. Excess eaten should be recorded separately from literal physical waste in future conservation accounting.
+
+**Alcohol belongs under leisure, not groceries.** Weekly proposed shopping list (silver **accounting units**, not named mint denominations or weighed real silver):
+
+| Category | Qty per week | Unit price | Cost per week | Approx kcal per week |
+|---|---:|---:|---:|---:|
+| Dry grain/flour | 12 kg | 0.20/kg | 2.40 | 42,000 |
+| Dry beans/lentils | 3 kg | 0.30/kg | 0.90 | 10,200 |
+| Roots/tubers | 10 kg | 0.12/kg | 1.20 | 8,000 |
+| Greens/vegetables | 8 kg | 0.20/kg | 1.60 | 2,400 |
+| Fruit | 7 kg | 0.15/kg | 1.05 | 3,500 |
+| Meat | 4 kg | 0.70/kg | 2.80 | 8,000 |
+| Fish | 1.5 kg | 0.60/kg | 0.90 | 1,800 |
+| Eggs | 24 eggs | 0.045/egg | 1.08 | 1,680 |
+| Milk | 12 L | 0.14/L | 1.68 | 7,800 |
+| Oil/butter/rendered fat | 2 kg | 1.50/kg | 3.00 | 16,000 |
+| Honey/sweeteners | 0.5 kg | 0.90/kg | 0.45 | 2,000 |
+| **Total** | | | **17.06** | **103,380** |
+
+At assumed retention of 70%, calories available for target intake = 103,380*0.7/7 = **10,338/day**. Annual cost: 17.06*52 = **887.12 accounting units** versus prior proposed 900-unit grocery allowance, headroom 12.88 units (only 1.43% of allowance). 30% loss already included in raw purchase quantities: do **not** multiply shopping cost by another 1/0.7.
+
+**Model limitations:**
+- No validated Thornguard metabolic requirements, nutrient sufficiency, milk/animal husbandry yields, edible vs gross weight adjustments, refrigeration and preservation losses, actual regional harvest supply, rents, wages, and market clearing.
+- Weekly representative basket should be seasonally smoothed rather than falsely implying all fruits, fish and vegetables appear freshly each week.
+- The tight budget headroom implies almost no cost shock allowance. Consider 5–10% food contingency, seasonal substitution, or a modified household budget **only after author approval**.
+- Public water, bathhouses and civic conveniences not double charged as food. Beer/wine etc allocated to leisure.
+- External comparison: human dietary energy varies by age/activity (USDA Dietary Guidelines 2020–25), and USDA's estimated 30–40% food supply loss/waste includes retail and consumer stages and is not a direct measurement of Canopy household waste.
+
+**Next work:** inspect implied agricultural yields, transportation, storekeeper margin, perishability, animal feed and labor needs before declaring these silver prices plausible. Resolve real Canopy silver mint weights and purchasing power separately.
