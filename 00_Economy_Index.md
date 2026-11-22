@@ -31,3 +31,5 @@ This repository is intentionally not a replacement for approved main-codex equip
 - [09 Equatorial Treetop Agriculture — DRAFT](09_Equatorial_Treetop_Agriculture_DRAFT.md): sunlit canopy farms, crop–tree fusion, task-specific Leshy cultivation, soil and irrigation logistics, revised area accounting
 
 - [10 Treetop Estate and Starspawn Ranch — DRAFT](10_Treetop_Estate_and_Starspawn_Ranch_DRAFT.md): 300-ha crop split, water-demand test, trial workforce, product throughput, ranch security/feed/Recall ledger; all numbers experimental
+
+- [11 Mossback Yield, Slaughter and Ranch Throughput — DRAFT](11_Mossback_Yield_Slaughter_and_Ranch_Throughput_DRAFT.md): real-world-anchored 10t mass test, 4t edible meat, 8.8m kcal, 24h town distribution, feed/forage, breeding and staffing scenarios, explicit noncanon numeric assumptions
