@@ -1,0 +1,43 @@
+# Mossback Slaughter Age Versus Grazing Cost — DRAFT
+
+**2026-11-21.** This is a NEW unapproved economic analysis, not a change to approved Mossback size, survival or maturation canon. Latest author approved use of direct wild Sunrush grazing as ordinary plains-rearing model and endorsed an explicit goal that Mossback steak be an ordinary accessible food, not an artificially rare luxury. Approval of grazing concept does not automatically approve a precise 8-year slaughter age or older speculative edible-yield percentages.
+
+## Method
+Model 24 breeding mothers +8 protective/wet-nursing adult herd members, producing 115.2 seeds/year under a 6.25-year cycle. Birth-to-age survival model (still unapproved intermediate interpolation): survival S(0)=1; S(2)=0.90; S(12)=0.82; S(20)=0.75, linear within those ranges. Approved adulthood mass anchors are (age0 2kg, 1 350kg, 2 900kg, 5 3000kg, 8 4800kg, 12 7000kg, 16 8800kg, 20 10000kg), linear age interpolation for accounting only.
+
+Annual net dry feed consumed by growing herd cohort age bracket a to a+1 years: `115.2 * S(a+0.5) * mass(a+0.5) * feed_rate(a+0.5) * 365 / 1000` tonnes. Age under5 daily net feed .01 mass; age5–12 .0085; age12+ .0075. One year of breeding herd 32×75kg/day×365/1000 = **876 tonnes/year**. Add prior 20% physical feed-provision allowance ONCE to all included consumed mass. Feed volume at truncated slaughter-age T: `1.2*(876+SUM(yearly growing-herd tonnes for ages 0...T-1))`. (This correctly accounts for mortality without treating deaths as cost-free.)
+
+**Realistic feeding location adjustment:** Up to **1,430 tonnes/year** of nursery+breeding herd food is valued at prior harvested 70/25/5 blend **30.8242917 accounting silver units/tonne**, including feed buffering. Any extra food consumed by grow-out stock (age2+) is priced at **17.66366665 units/tonne**, representing the approved *working grazing scenario*: Sunrush directly grazed at illustrative 8 units/t consumed, half of hypothetical Sunlace-equivalent supplementary forage grazed at 12 units/t, rest purchased at 52.36 and Stonepod at 80.3733. The 1,430 nursery figure is rounded from 1,429.49 age2 tally; for age2 result use its own total if lower than 1,430 to prevent negative 'grazing' feed. **The 50% Sunlace grazing, prices, species and plant ratios remain tentative**, and mother milk/seed photosynthesis effects are not modeled in detail.
+
+**Nursery expense without duplicate feed:** Prior study19 moderate enslaved sanctuary total including own cut-feed and 10% sanctuary reserve is **177,450.61 units/y**. Nursery feed already inside this is **44,078.74**, leaving **133,371.87 units/y nursery nonfeed expense** to add once to the age-truncated *network* feed cost. This does not contain age2 purchase price separately; don't add the animal purchase as a new cost in vertically integrated analysis. The herd's 876t annual feed is allocated to every cohort outcome of the ongoing reproductive estate, not to each animal independently. Ignore any breeder acquisition capital because study19 excluded it.
+
+**Edible yield hypothesis:** 40% of live mass saleable edible meat, and 70% of that actually biologically assimilated before the 24-hour Celestial Recall -> **28% live mass effectively eaten**. Same ratios at all ages are NOT canon; small juveniles may differ. No meat carryover from unsold Starspawn flesh after Recall.
+
+## Quantitative results: one mature steady-state network with slaughter at specified age
+| Slaughter age (years) | Live mass per animal kg | Expected survivors slaughtered yearly | Annual full-network feed incl breeding herd+20% provision t | Total annual network food silver units | Actually consumed meat per animal kg | Annual realized meat kg | Food alone units/kg | Food+sanctuary nonfeed floor units/kg |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| 2 | 900 | 103.68 | 1,429.49 | 44,069.79 | 252 | 26,127.36 | 1.687 | 6.791 |
+| 5 | 3,000 | 100.9152 | 4,045.01 | 90,269.46 | 840 | 84,768.77 | 1.065 | 2.638 |
+| **8** | **4,800** | **98.1504** | **8,376.46** | **166,778.61** | **1,344** | **131,914.14** | **1.264** | **2.275** |
+| 12 | 7,000 | 94.464 | 16,828.84 | 316,078.71 | 1,960 | 185,149.44 | 1.707 | 2.428 |
+| 16 | 8,800 | 90.432 | 26,418.05 | 485,459.26 | 2,464 | 222,824.45 | 2.179 | 2.777 |
+| 20 | 10,000 | 86.4 | 37,333.87 | 678,272.73 | 2,800 | 241,920 | 2.804 | 3.355 |
+
+8 years is the **lowest combined feed-plus-nursery-nonfeed cost** of the tested ages under these assumptions, at **2.275 silver accounting units/kg**. **At age5 feed alone is cheapest** (1.065 units/kg) but not after amortizing sanctuary cost (2.638 units/kg). The earlier initial claim that age5 wins was a calculation interpretation error, corrected before finalizing. The age8 animal reaches 4.8t (48% of approved 20-year 10t size); 8y slaughter is **not** the approved physical maturity of species and must not be interpreted as 8y reproductive onset.
+
+At age8, standard assumption yields ~98 cattle delivered annually from one 24-mother estate, ~131.9t actually assimilated meat. Compared to 20y age, meat annual amount is lower, but cost per consumed kg is down about **32.2%** from 3.355 to 2.275. The annual growth-herd counts also shrink dramatically, while sanctuary throughput is unchanged. Do not apply 20-year total graze costs to earlier slaughter.
+
+### Price and affordability cautions
+- **2.275 units/kg is NOT the retail meat price**: excludes age2+ grow-out ranch labor/security/medical costs beyond grazing service assumed priced into 8/t and 12/t, transport to slaughter, craft butcher wages, cooking, spoilage, merchant margins/taxes, breeder and captive worker capital costs, pasture density and local market distribution. Need determine if grazing fee already incorporates specific ranch labor to prevent double counting.
+- Old hypothetical generic meat price **0.70 units/kg** from draft household basket remains inconsistent with Mossback feed-plus-breeding cost as modeled. Even with FREE grazing, nursery nonfeed expense alone at age8 is **~1.011 units/kg**; reaching 0.70 Mossback retail price under current survival, yield and nursery overhead assumptions is mathematically impossible without lowering nursery costs or increasing outputs/product offsets. Don't quietly force incorrect price.
+- However a **weekly 200g per person** ration for an example five-person household requires 52kg/year, which at *cost floor* 2.275 corresponds to 118.3 silver units/year, ~12.1% of that earlier household's provisional **975.83-unit grocery budget**. This does NOT prove any retail price or quantity availability, and 200g/week is a modest supplement, not entire household red-managmin nutrition.
+- A richer regular steak staple (e.g., **500g per person weekly**) means 130kg/year for five people, costing **~295.8** silver units annually at *cost floor*, before retail markup. At 4 silver units/kg, 130kg/year costs 520 units and forms a majority of 975.83-unit old grocery budget. Actual whole-household diets need rebalancing if Mossback meat is a major food staple.
+- Additional income from Mossback milk, draft work and other animal services, usable Starspawn-derived products and smaller/younger slaughter types can offset net meat business costs only when volumes and legal durability are established; currently none assumed.
+- Meat and dietary managmins remain distinct from energy calories (no in-world calories/protein/minerals). Mass remains a physical quantity; food is all nutrition through managmins.
+- Large slaughter output ~1,344kg edible biologically consumed per age8 Mossback is still logistically time-sensitive due to Celestial Recall. 98 animals yearly spaced through regional markets avoids 20y adult's 2,800kg single-event distribution burden.
+- Physical pasture productivity / 8-unit grazed Sunrush cost remains unvalidated, and cattle survival stage rates except 75% by age20 are scenario parameters.
+
+## Suggested next economic experiments
+1. Compare age6,7,8,9,10 and fresh meat yield uncertainty at each age to locate robust optimum rather than treating age8 as exact universal optimal.
+2. Model plausible perennial milk production and service-draft revenue credits, high land productivity and one guardian/multiple pups farming efficiencies, and alternative lower nursery staff complement; preserve 75% age20 survival when modeling 20y.
+3. Compare available regional red-managmin dietary demand and generic edible meats. If budget calibration cannot meet "steak staple" goal, revisiting **older unapproved 0.70-unit generic meat price** is preferable to adjusting author-approved reproductive/growth biology without permission.
