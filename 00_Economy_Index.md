@@ -63,3 +63,6 @@ This repository is intentionally not a replacement for approved main-codex equip
 
 
 - [21 Mossback Slaughter-Age Grazing Economics DRAFT](21_Mossback_Slaughter_Age_Grazing_Economics_DRAFT.md): compare age 2/5/8/12/16/20 slaughter with natural grazing, survival-adjusted cohort growth and nursery cost amortization; age8 lowest feed-plus-sanctuary cost in the tested scenario (~2.275 silver accounting units/kg), not yet final retail price or canon slaughter age.
+
+
+- [22 Mossback Dairy, Cheese and Pasture Steak Costs DRAFT](22_Mossback_Dairy_Cheese_and_Pasture_Steak_Costs_DRAFT.md): test surplus milk credits to meat costs, dairy/cheese futures, grazing grow-out animal-specific overhead, slaughter logistics and 70/85/95% pre-Recall assimilation. All milk yields, pricing, source-recall behavior and meat clearance improvements remain UNAPPROVED.
