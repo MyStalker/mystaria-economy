@@ -45,3 +45,15 @@ From main-codex `02_Races.md`: Thornguard are ratfolk with martial aristocratic 
 6. Stress-test how changes in productivity and unequal access redistribute prosperity.
 
 No monetary quantities here are canon.
+
+## November 21 — Author-defined Canopy living standards and labor comparison (latest direction)
+
+**Household A:** Non-noble middle-class free Thornguard lives at unusually high purchasing power, inspired by the U.S. post-WWII boom but culturally compared with Imperial Rome. A single income supports an entire family, a modest home can be paid off in approximately **one year**, with frequent drink, tournaments, recreational swords, and perhaps firearms as enthusiast hobbies. Exact job, income, house construction/land price, family size, and prices remain OPEN. A hypothetical normalized budget is a proposal, not approved coinage.
+
+**Household B:** Better-off Thornguard operating a modest **dressmaking shop** supported by enslaved Bloomkin. These Bloomkin are portrayed as substantially better treated than most lower-order slaves in the Imperium, and far better than those in the Scarlands. Compared to the Imperium's suggested enslaved barracks living, uniforms and six-day schedule, the Canopy Bloomkin here receive sick time, maternity leave, usually **40-hour working weeks** (longer during busy seasons), some education, greater community continuity, evening freedom to socialize and celebrate holidays, and permission to wear casual personal clothing outside work. **These are the author's intended characteristics of this household, not a universal legal entitlement or condition of slavery across every Canopy household.** The comparison raises financial and moral distinctions between maintained enslaved skilled workers and hired paid skilled workers.
+
+**Welfare and power:** More humane living arrangements do not mean free consent or the ability to exit service. Keep freedom, compensation, family separation risk, legal status and structural dependency distinct from hours and benefits.
+
+**Regional historical comparison:** Imperial Rome's urban artisans, renters, public baths and spectacles provide cultural analogies, but the Canopy example is materially much more comfortable than most actual Roman middle-income households. Postwar one-income household aspirations are a separate economic analogy.
+
+**Budget status:** No silver wages, house prices, dressmaking margins, annual expenses, enslaved Bloomkin purchase prices, or paid-worker salary rates are yet approved. Avoid presenting illustrative normalized budgets as established prices.
