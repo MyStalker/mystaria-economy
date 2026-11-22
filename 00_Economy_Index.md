@@ -40,3 +40,6 @@ This repository is intentionally not a replacement for approved main-codex equip
 ## New quantitative draft — Mossback growth curve (November 21, 2026)
 
 - [13 Mossback Growth Curve and Lifetime Feed DRAFT](13_Mossback_Growth_Curve_and_Lifetime_Feed_DRAFT.md) — elephant-anchored hypothetical 0–20-year mass trajectory, age-dependent feed model, provisional age-specific survival and complete 20-year industry feed/land pipeline. **No numerical rates are canon.**
+
+
+- [14 Sunrush Forage and Supplement Crop Models DRAFT](14_Sunrush_Forage_and_Supplement_Crop_Models_DRAFT.md): proposed Sunrush/legume/mineral feed fractions, usable forage yield sensitivity and full-industry land comparisons. Mossback growth weights in study 13 are author-approved benchmarks; the crop mix/yields in 14 are not yet canon.
