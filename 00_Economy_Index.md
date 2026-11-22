@@ -57,3 +57,6 @@ This repository is intentionally not a replacement for approved main-codex equip
 
 
 - [19 Enslaved Sanctuary Workforce and Meat Cost Sensitivity DRAFT](19_Enslaved_Sanctuary_Workforce_Meat_Cost_Sensitivity_DRAFT.md): compare paid 44-worker breeding sanctuary against hypothetical 9 paid guards/Nymbrin and 35 captive workers, with three provisioning-cost assumptions. Moderate scenario reduces sanctuary annual budget ~38.8% and partial feed-plus-sanctuary meat cost ~8.1%; figures are not approved or final retail prices.
+
+
+- [20 Natural Grazing and Mossback Feed Price Reconciliation DRAFT](20_Natural_Grazing_and_Mossback_Feed_Price_Reconciliation_DRAFT.md) — distinguishes self-harvested Sunrush pasture from cut-and-carry farm fodder; tests 26–59% lower lifetime feed bills through managed grazing, land/utilization and residual meat affordability issue. All new grazing fees/yields and farm/field mixes remain draft.
