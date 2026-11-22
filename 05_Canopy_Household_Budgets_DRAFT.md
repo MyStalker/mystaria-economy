@@ -79,3 +79,13 @@ At assumed retention of 70%, calories available for target intake = 103,380*0.7/
 - External comparison: human dietary energy varies by age/activity (USDA Dietary Guidelines 2020–25), and USDA's estimated 30–40% food supply loss/waste includes retail and consumer stages and is not a direct measurement of Canopy household waste.
 
 **Next work:** inspect implied agricultural yields, transportation, storekeeper margin, perishability, animal feed and labor needs before declaring these silver prices plausible. Resolve real Canopy silver mint weights and purchasing power separately.
+
+## November 21 — Latest author approval and next-study docket
+
+**Approved methodology:** Include a **10% contingency on baseline food spending** for seasonal variation, shortages, guests and surprises. This changes the earlier suggestion to merely consider 5–10%: 10% is selected. Against the still-UNAPPROVED sample basket of 887.12 silver accounting units per year, 10% = 88.712 and provisional total = **975.832 (~975.83)**. This exceeds the prior hypothetical 900 food envelope by **75.832**. Do not treat the old 900 envelope as an approved cap or force food prices downward to match it. The total 3,000 salary model and all silver rates remain proposals.
+
+**Approved worldbuilding direction:** Mystaria food nutrition should ultimately be explained in terms of the **Red, Blue, Green, White and Black managmins**, rather than a direct modern human vitamin/protein/micronutrient model. Do **not** invent nutritional assignments or required managmin ratios. Caloric and mass-based planning remains a provisional physical throughput proxy until food-specific managmin mechanics are defined. Confirm how the user's existing potion managmin mechanics relate to dietary nutrition before designing anything quantitative.
+
+**Deferred realism investigations (explicitly requested):** species and age-specific food requirements; individual food spoilage and preservation rates rather than blanket 30%; distinction among overconsumption, non-edible waste and physical spoilage; seasonal availability and substitution; spoilage over transport; actual farm yields and labor; animal husbandry and feed conversion; food processing, milling, cold storage, trading and market margins; vendor/provisioning economics; crop and prepared-food managmin profiles; price variability and public support. No physiological benchmarks or new agricultural yields are approved by this note.
+
+**Next phase:** Determine agricultural production and distribution concepts first, then farmer/farmhouse budgets and retail prices once crops, labor, area, season and logistics are specified.
