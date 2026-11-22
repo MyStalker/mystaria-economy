@@ -124,3 +124,20 @@ At 365 days and a 70% usable purchased-food factor:
 **Agricultural policy:** Because Centaurs do not graze grass as horses do, never equate their full energy intake with mere low-value pasture. Work out their actual crop/product diet and share of refined/processed food, along with costs of livestock feed separately. Leshy require water/light/soil infrastructure although they purchase no conventional meals.
 
 **OPEN:** Percentages for rural 6,000, exact mix within the 3,000 enslaved residents, family size, physical farm yields, defined managmin diet, market demand by class, and real household wages. Original uniform-demand illustrations above are **superseded as the town's primary calculation** by this experimental demographic test, but remain useful as a comparison or for sensitivity analysis.
+
+## November 21, 2026 — Updated experimental Centaur intake benchmark
+
+**Author-selected for the ongoing food-demand experiment:** Set Centaur ordinary energy-equivalent food requirement at **about 18,000 kcal per resident per day**, reflecting horse-scale intake and exceptionally demanding physical work and long-hour cultural expectations. **This is not a completed biological/managmin nutrition rule, and the 7k–11k Centaur sensitivity scenario immediately above is superseded as the principal working assumption.** Centaurs do not simply graze grass; the resulting burden is a requirement for cultivated/processed food supply. Actual specific food composition, physiological intake spread, and work-related energy variance remain OPEN.
+
+**Updated 4,000-person experimental town:**
+| Group | People | Proxy kcal/person/day | Total kcal/day |
+|---|---:|---:|---:|
+| Smaller default enslaved group | 3,000 | 1,600 | 4,800,000 |
+| Centaur | 400 | **18,000** | **7,200,000** |
+| Thornguard | 400 | 2,800 | 1,120,000 |
+| Leshy | 200 | 0 conventional meals | 0 |
+| **TOTAL** | **4,000** | — | **13,120,000** |
+
+Intended annual intake = **4,788,800,000 kcal equivalents**. With the existing household allowance factor 0.70, annual gross purchase/provisioning equivalent = **6,841,142,857 kcal (~6.84 billion)**. Centaurs account for **7.2/13.12 ≈ 54.88%** of desired dietary energy despite being 10% of population. This replaces the former 9.52m/day, 4.964bn/year primary estimate, which is retained as a historical sensitivity comparison.
+
+**Important:** This revises the **town only**, not the surrounding 6,000-person rural catchment. Do not assume Centaur labor productivity or wages scale one-to-one with calorie requirements. This increased agricultural demand must be carried into later production and market-price tests. Real Kharak intake is a future topic, not currently quantified.
