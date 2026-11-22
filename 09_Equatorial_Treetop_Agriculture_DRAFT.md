@@ -52,3 +52,29 @@ Earlier [08 Workforce](08_Canopy_Workforce_and_Canopy_Urbanism_DRAFT.md) estimat
 - Does fertilizer-replacement magic work continuously or in treatments? Fertility and crop managmin composition need later mechanics.
 - Managmin nutrition remains separate from energy-proxy food accounting.
 - Validate river/road supply logistics across vertical urban settlements before approving farm profitability, taxes or currency prices.
+
+## November 21, 2026 — Host-tree substrate and livestock-Starspawn husbandry docket
+
+**AUTHOR APPROVED:** Host trees themselves are the growing medium in most eligible elevated crops; imported soil not universally needed. **Direct irrigation/watering remains necessary** for crops. Host nutrient draw, water distribution, reservoir/pipe/branch transport, drought and infrastructure failure are genuine farm costs and risks. Canon owning document: [38 Leshen Foundations](https://github.com/MyStalker/mystaria-codex/blob/main/38_Leshen_Leshy_Foundations.md).
+
+**AUTHOR-RAISED QUESTIONS, NOT YET APPROVED AS RULES:** The Canopy's livestock are domesticated Starspawn; dangerous dark forest-floor livestock farms would require defense, but perhaps surprisingly modest defense relative to treetop poultry. Ask whether livestock consent to farming or slaughter, whether lifespan and services are exchanged for protection, whether a domesticated Starspawn returns home after Celestial Recall, whether a single willing cow-like Starspawn can be harvested repeatedly, and how to retain realistic farm threats and economics.
+
+### Canon conflict check (read main-codex 01_World_and_Shimmer.md)
+- All Starspawn understand civilized speech and Starsong, most cannot speak mortal tongues.
+- Astral Hearts preserve the Cognum, personality and memory through death/Recall. Starspawn can experience pain, fear, confinement and mistreatment.
+- After fatal injury, Stillness/Recall may occur; Recall duration **intentionally unspecified**, depending on damage/power/depletion. Neither post-reconstruction return *location* nor voluntary return-to-farm guarantee is established.
+- When Recall begins, Astral Heart disassembles remaining original Anima, Spiritus and **Corpus, including physical body**. **It is NOT canon that butchered meat persists after Recall.** Repeated yearly meat harvest therefore cannot be modeled as a free renewable infinite source. What portions are affected after separation/processing/consumption, and how long before Recall, are open questions.
+- A Summoner Accord provides access to summoning but is neither universal in livestock nor necessarily voluntary; coercion possible. Do not presume every farmer has an Accord or that Starspawn automatically return home.
+- Existing Starspawn ecology already includes grazing and domestication for transport/agriculture.
+
+### Unapproved husbandry design alternatives
+A. Conventional captive/breeding meat husbandry, but needs explicit meat-persistence-after-Recall ruling.
+B. Long-term voluntary or negotiated husbandry: eggs, milk, fibers, labor, sometimes consent to slaughter, with sentience/Starsong and bargaining central.
+C. Renewable annual meat through recurring Recall: must resolve meat persistence, recovery resource/time and body reappearance; risks severe overproduction.
+D. Mixed by species and farm: varied eggs/milk/fibers/labor and selective meat under defined exceptions, retain distinct ecological/legal economics.
+
+**Assistant preference for user review only:** D plus elements of B; do not canonicalize animal ethics, sentience thresholds, legal contracts, voluntary slaughter, reincarnation destinations, recovery periods or retained meat without user approval.
+
+**Realistic costs and dangers that should survive any choice:** food/feed crops, pasture or enclosed elevated barns, grazing-guard teams, animal disease, parasites, fertility/reproduction, injuries, birthing, bad weather, manure, crop water, spoilage, medicine, sanitation, building maintenance, transport, predators, Recall disappearance and lost investment, animal memories/relationships, family herd behavior, escape, and legal/political disputes over consent and ownership.
+
+**Agricultural land warning:** Previous 30–40 km² food-production estimate included a speculative 1,000–2,000 ha livestock pasture and insufficiently calibrated feed conversion. Do not declare this footprint stable until canopy vs dangerous ground livestock systems and Starspawn post-Recall meat handling are resolved.
