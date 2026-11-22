@@ -1,0 +1,40 @@
+# Natural Sunrush Grazing and Mossback Feed Price Reconciliation — DRAFT
+
+**2026-11-21. Status: requested exploratory economic correction, NOT author-approved new numbers.** Author's expressed goal: **Mossback meat should remain an affordable staple, not a rare indulgence**, consistent with prior price goals. The user asks whether every blade of Sunrush and accompanying forage must come from a harvested commercial farm. **No.** Existing main-codex canon already establishes Sunrush as vigorous wild, rhizomatous plains forage naturally grazed/checked by Mossbacks. The commercial 100ha Sunrush farm is a valid **cut-and-carry, dried feed, cultivated output** benchmark, but **must NOT be automatically applied to the entire 20-year grow-out network** as if every Mossback always eats purchased harvested grass.
+
+## Distinguish three feed channels
+1. **Natural grazing** on forage that regenerates without farmers planting every cycle. Direct browsing avoids most harvesting, drying, packing, and freight. Costs remain for grazing tenure/concession/opportunity cost, managed rest periods, water rights/sources and distribution, herders/guards, livestock movement and mortality; vegetation not necessarily complete in ideal five-color profile.
+2. **Managed pasture** (e.g. broad Sunrush and compatible wild/introduced supplemental species, where botanically feasible): periodic Leshy tending, water distribution, rotation, pasture repair, selective broadcasting/planting, protection, possible harvest of seasonal surpluses. Not identical to completely mechanically harvested 100ha farm.
+3. **Cut-and-carry cultivated feed** for 0–2-year nursery sprouts, nursing/blooming/recovering mothers, dense animal operations, shortage periods, healing and targeted managmin correction. Retain previous 100ha benchmark when this channel applies.
+
+## Evidence for feasibility, not direct fantasy yield proof
+- Mississippi State Extension: livestock pasture utilization ~40–70% common; grazing can lower feeding costs relative to harvested methods. https://extension.msstate.edu/publications/beef-cattle-grazing-management
+- Washington State University Extension: continuous systems can consume ~35–50% of seasonal forage grown; location, rest and stocking affect efficiency. https://extension.wsu.edu/animalag/optimizing-pasture-and-animal-production-through-planned-grazing/
+- Florida IFAS: well-managed rotational stocking can improve pasture stocking rate, often 15–30% under suitable conditions. https://ask.ifas.ufl.edu/publication/AG160
+- Elephant grass review: real Napier grass ~26 t dry matter/ha/year in studied systems, variable widely 2–86. https://pmc.ncbi.nlm.nih.gov/articles/PMC10682400/ . This is *gross growth*, not guaranteed directly eaten forage or Mystaria canon.
+
+## Reprice a 70/25/5 diet in purely illustrative cases
+Original farmgate dried feed source prices per consumed tonne: Sunrush **19.59375**, Sunlace **52.36**, Stonepod **80.373333** accounting silver units. Blended former price **30.8242917 units/tonne**. Full integrated network provision **37,334 dry tonnes/year** (already contains 20% feed reserve) of which Sunrush 70%=**26,133.8 tonnes**. Expected **86.4 age-20 Mossbacks/year** in mature steady state (reproductive cycle and captive 75% eventual survival assumptions), 2,800kg actually eaten meat/adult from prior UNAPPROVED meat yield/Recall assumptions. No double counting forage if herd eats it in situ.
+
+**New NONCANON grazing costs:** Sunrush **8 units per dry tonne successfully eaten**, not per tonne standing, and wild/managmin-compatible supplement vegetation (modeled as Sunlace-equivalent) **12 units per dry tonne eaten**. Grazing price includes modeled pasture opportunity/ownership, water availability and some routine oversight but *must not double count* such costs in eventual ranch overhead if separately itemized. Stonepod held as cultivated feed at 80.373333 units/t. Source species names and profiles still provisional.
+
+| Case | Sunrush use | Supplement Sunlace share grazed | Mixed ration accounting units/t | Full yearly network feed accounting units | Reduction vs farmgate-all | Feed-only units per kg consumed meat |
+|---|---|---:|---:|---:|---:|---:|
+| A: all cut-and-carry | purchased harvested 19.59375 | 0% | 30.82429 | 1,150,794.11 | 0 | 4.7569 |
+| B: wild Sunrush only | direct grazing at 8 | 0% | 22.70867 | 847,805.36 | 26.33% | 3.5045 |
+| C: wild Sunrush + mixed supplemental pasture | direct grazing at 8 | 50% at 12/t | 17.66367 | 659,455.33 | **42.70%** | 2.7259 |
+| D: wild Sunrush + all supplemental pasture | direct grazing at 8 | 100% at 12/t | 12.61867 | 471,105.30 | 59.06% | 1.9474 |
+
+For case C: 70%×8 +25%×(50%×12 +50%×52.36)+5%×80.373333 = **17.663667 silver accounting units per consumed dry tonne**. This is a production-network *feed* saving, NOT guaranteed 43% reduction of final meat at retail. Note normal adult field grazing may be most cost effective and sanctuary usually retains high-value cut feed. Treat all-network uniform blend as an **upper-level sensitivity case**; actual weighted reduction may be less when sanctuary/ill growers cannot graze.
+
+## Land and yield audit
+At **6 tonnes of dry Sunrush actually consumed per ha/year**, 26,133.8t Sunrush grazing needs **4,355.6 productive hectares** =43.6km²; *not* the whole territory including habitat buffers, paths, water and seasonal paddocks. If utilization=50%, gross standing growth must average **12t dry matter/ha/year**. It is inappropriate to multiply an already *usable eaten yield* by utilization again. At 8 units/t consumed, grazed Sunrush farm/estate takes in/allocates **48 units/ha/year**. Previous separate land-rent benchmark **24 units/ha/year** would consume HALF of this grazing charge, leaving ~24 units/ha/year for water, oversight, fences and other costs. This is **tight**, not proof that 8 is sustainable or full profitable all-in cost: need validate water, pasture guard coverage, land ownership, active herding fees, equipment and wildfire/Hex risks.
+
+## Important regional ecology and commercial structure
+- Mossbacks born/raised at specialized sanctuaries may stay near guarded nurse gardens 0–2 years with grown/provided feed and communal milk, then travel to enormous **plains grazing estates**, before final forest ranch delivery/slaughter. Not every phase uses same feed procurement strategy.
+- Enslaved labor and magical Tidekin/Leshy improve pasture tending and water access but do not make land or animal protection free. Tidekin can access groundwater and purify seawater as specialist abilities; irrigation distribution remains independent of sourcing, and half-aqueduct workforce capacity rule stands.
+- Direct grazing of naturally occurring supplementary plants is plausible if species are edible, thrive in pasture, survive grazing pressure, and supply the required Blue/Black managmins; cannot presume tentative Sunlace/Stonepod grow everywhere or that the diet's exact 70/25/5 ratios match every wild plant community.
+- More wild pasture land might be needed where yield is lower or animals trample/move plants; their massive bodies and Starspawn ecological risks mean stocking density must be checked explicitly.
+- Affordability challenge remains: even new case C feed-only **2.73 units/kg** > old *unapproved generic meat basket* price **0.70 units/kg**. Need evaluate **earlier slaughter age**, actual 10t meat yield, grazing input costs, other products (milk, labor, byproducts) and whether the old generic meat price was simply far too cheap. Do not claim we solved it with a 43% feed saving, nor silently change approved 20-year full-size growth curve. Alternative **meat from younger Mossbacks** may reduce long-term feed but also less slaughter mass; must optimize lifetime food to edible-managmin yield.
+
+No change to approved species canon; this is a proposed correction to earlier assumption that commercial harvested forage was universal.
