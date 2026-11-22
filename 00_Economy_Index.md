@@ -60,3 +60,6 @@ This repository is intentionally not a replacement for approved main-codex equip
 
 
 - [20 Natural Grazing and Mossback Feed Price Reconciliation DRAFT](20_Natural_Grazing_and_Mossback_Feed_Price_Reconciliation_DRAFT.md) — distinguishes self-harvested Sunrush pasture from cut-and-carry farm fodder; tests 26–59% lower lifetime feed bills through managed grazing, land/utilization and residual meat affordability issue. All new grazing fees/yields and farm/field mixes remain draft.
+
+
+- [21 Mossback Slaughter-Age Grazing Economics DRAFT](21_Mossback_Slaughter_Age_Grazing_Economics_DRAFT.md): compare age 2/5/8/12/16/20 slaughter with natural grazing, survival-adjusted cohort growth and nursery cost amortization; age8 lowest feed-plus-sanctuary cost in the tested scenario (~2.275 silver accounting units/kg), not yet final retail price or canon slaughter age.
