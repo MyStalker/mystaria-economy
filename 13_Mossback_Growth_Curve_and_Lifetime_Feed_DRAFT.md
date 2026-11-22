@@ -54,3 +54,10 @@ At illustrative usable forage yield **6 tonnes of consumable dry matter per hect
 - An age-two nursery sale model is one plausible specialized commercial arrangement, not fixed canon. Transfer logistics, consent/coercion and Starspawn memories remain important.
 - No currency price, mature 10t norm, market price, feed recipe, sex dimorphism, 50% solar fraction, annual survival-stage breakdown, grow-out labor, milk yield, carcass yield or sanctuary capacity is approved by this draft.
 - Strong near-term tests: 25% versus 50% solar energy, heavier adult mass 12t, lower/higher forage usable yield, different juvenile growth timing, and family protective-herd overhead.
+
+
+## November 21, 2026 — AUTHOR APPROVAL: GROWTH NUMBERS; NEW SUNRUSH MIX PROPOSAL
+
+**User approved the previously published elephant-anchored Mossback growth numbers:** seed 1.5kg, hatch 2kg, ages 1/2/5/8/12/16/20 at 350/900/3000/4800/7000/8800/10000kg. The previously used planning feed rates (net dry-feed equivalent 1% body mass/day through age 5, 0.85% ages 5–12, 0.75% ages 12+), and example ~31,112t/year total for mature 24-mother integrated supply chain and ~6,222ha at illustrative 6t usable forage/ha are **approved working benchmark estimates, not immovable botanical facts**. Solar half-energy offset, individual variation, stage survival distribution, 20% operational allowance and adult support staffing remain assumptions to explicitly test. Exact Sunrush usable yield is NOT approved.
+
+**NEW UNAPPROVED NEXT EXPERIMENT:** [14 Sunrush Forage and Supplement Crop Models DRAFT](14_Sunrush_Forage_and_Supplement_Crop_Models_DRAFT.md). Proposed 70% Sunrush, 25% proposed *Sunlace Clover* high-protein legume, 5% proposed *Stonepod Reed* mineral-fodder plant, with 6/4, 12/6 or 20/10 tonnes usable dry matter per hectare-year for Sunrush/supplement producing ~7,156ha, ~4,045ha or ~2,427ha of effective productive land across the integrated network. **Species names, diet mix and yields are proposals, not canon.** Sunrush itself and its grazing-dependent open-plains ecology are already approved. No prices or new Leshy Craft rules finalized.
