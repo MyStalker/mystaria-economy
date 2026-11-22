@@ -78,3 +78,49 @@ The 50-ha figures represent **grain-cropped area**, NOT fully specified farm hol
 Real-world context for plausibility comparisons only: USDA 2024/25 global wheat yield around **3.57 metric tonnes per hectare** (USDA FAS July 2024), with historical medieval farm yields considerably lower and variable. Canopy magically enhanced gross yields require later author approval.
 
 **Next investigation:** split local rural residents by occupation and food requirements; select fraction of edible energy from crops vs animal products; decide typical property sizes and farm density, share of agriculture done by free/enslaved/Leshy labor, and practical Leshy/clockwork yield enhancements. Avoid assuming an 80% food delivery rate or 50% grain calories as canon.
+
+## November 21, 2026 — AUTHOR-SELECTED experimental town composition
+
+**Explicitly an EXPERIMENTAL demographic model, not universal Canopy demographics or approved nutritional mechanics.** On the proposed **4,000-person reference town**:
+
+| Population category | Share | Persons |
+|---|---:|---:|
+| Default enslaved population, principally Moontouched, Tidekin, Bloomkin and Duskpaws (roughly 4-ft stature overall) | **75%** | **3,000** |
+| Centaurs, with horse-like food intake but **not** grass grazing | **10%** | **400** |
+| Thornguard (also called Thornkin in this economic conversation) | **10%** | **400** |
+| Leshen/Leshy, with no ordinary food consumption | **5%** | **200** |
+| **TOTAL** | **100%** | **4,000** |
+
+Caveat: 'default enslaved' is a social category whereas the other three are race categories. Do **not** conclude all 400 Centaurs, Thornguard, or Leshy are necessarily free; finer legal-class tables remain OPEN. This demographic mix is specified for the **town**, not yet for the 6,000-person rural catchment.
+
+**Leshy physiology now canon:** Photosynthetic Leshy need actual **sun/light, water, and soil**. Scarlands alchemists can produce artificial sunlight in controlled environments, even subterranean gardens; this is helpful to sun-averse Vren but does not establish Vren immunity to direct artificial sunlight. Canon owner: [38 Leshen Foundations](https://github.com/MyStalker/mystaria-codex/blob/main/38_Leshen_Leshy_Foundations.md).
+
+### Initial food-energy sensitivity (PURE MODEL ASSUMPTIONS)
+For a first-pass comparison ONLY, use 1,600 kcal/day for each default smaller resident, 2,800 for Thornguard, **9,000 for Centaurs**, and 0 purchased ordinary-food kcal for Leshy. These are invented working proxies and neither biological canon nor medical nutrition guidance.
+
+| Category | Count | Per-resident kcal/day proxy | Intended kcal/day |
+|---|---:|---:|---:|
+| Default small-bodied residents | 3,000 | 1,600 | 4,800,000 |
+| Centaurs | 400 | 9,000 | 3,600,000 |
+| Thornguard | 400 | 2,800 | 1,120,000 |
+| Leshy | 200 | 0 | 0 |
+| **Total** | **4,000** | — | **9,520,000** |
+
+At 365 days and a 70% usable purchased-food factor:
+- Intended consumed energy **3.4748 billion kcal/year**.
+- Gross consumer purchase/household allowance **4.964 billion kcal/year**.
+- Prior uniform 2,000-kcal for all 4,000 town residents yielded **4.1714 billion gross purchased kcal/year**; provisional racial composition result is **~19.0% higher**.
+- Centaurs account for **37.8% of the intended dietary energy**, despite comprising 10% of population.
+- This is not the **whole 10,000-person market-region** demand; rural demographics and agricultural producer consumption remain unspecified.
+- Farm seed, processing losses, animal feed, transport and retailer waste must be handled separately without double-counting the existing 30% household purchase allowance.
+
+### Centaur assumption stress test (all else unchanged)
+| Centaur kcal/day | Total intended town kcal/day | Gross annual purchase-equivalent kcal |
+|---:|---:|---:|
+| 7,000 | 8,720,000 | 4.547 billion |
+| 9,000 | 9,520,000 | 4.964 billion |
+| 11,000 | 10,320,000 | 5.381 billion |
+
+**Agricultural policy:** Because Centaurs do not graze grass as horses do, never equate their full energy intake with mere low-value pasture. Work out their actual crop/product diet and share of refined/processed food, along with costs of livestock feed separately. Leshy require water/light/soil infrastructure although they purchase no conventional meals.
+
+**OPEN:** Percentages for rural 6,000, exact mix within the 3,000 enslaved residents, family size, physical farm yields, defined managmin diet, market demand by class, and real household wages. Original uniform-demand illustrations above are **superseded as the town's primary calculation** by this experimental demographic test, but remain useful as a comparison or for sensitivity analysis.
