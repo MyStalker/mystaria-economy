@@ -90,3 +90,17 @@ For 20 large Mossbacks plus 60 smaller recurring-product Starspawn, **tentative 
 5. Actual food preference, culinary norms, red-managmin requirement per race and meat portion frequency.
 6. Exact Recall nutritional-assimilation cutoff and red-carnivorous-plant salvage time/yield.
 7. Shift/cold-chain safety and whether refrigerated processing affects biological assimilation (it does not alter Recall timer).
+
+## November 21, 2026 — IMPORTANT REPRODUCTIVE REVISION (AUTHOR'S PREFERRED DESIGN, not finalized mechanics)
+
+**This newer author direction supersedes the elephant-style one-calf reproduction assumptions in section 5 as the active Mossback design.** Retain the old elephant comparison as a *historical stress-test for a different animal*, not the current preferred Mossback lifecycle. Naming is approved; the detailed biology remains subject to author's final review.
+
+- Mossback reproduction is proposed to occur by **pollination**, producing **very large litters / a herd's worth of sprout offspring** at one time.
+- During brood production the mother may be **largely immobile, photosynthetic and useful as a stationary milk source**. Following brood, **half former HEIGHT and half former WEIGHT** is the author's provisional quantitative target. She needs **a couple/few years to regain mass and strength**. Avoid treating height halving as automatically 1/8 original body mass: author specified half weight separately.
+- Sprouts go to **open fields/plains** for accelerated juvenile growth, later transferred into heavily secured forest ranches near the end of their planned managed lifespan. Many forest-ranch animals are **captured via Starspawn hunts** or raised in fields/plains elsewhere; breeding herds are therefore not necessarily housed at the forest slaughter ranch.
+- **A slaughtered animal will NOT seek out its old farm on returning to Mystaria.** It can reappear regionally in natural habitat; recovery from Recall does not automatically replace inventory.
+- **Tentative global Starspawn ecology:** No reproduction within Celestial Realm, and most returnees to Mystaria return as adults. This contradicts earlier 'continuous celestial births' narrative and is recorded as **pending confirmation** in the main codex; see [main World and Shimmer](https://github.com/MyStalker/mystaria-codex/blob/main/01_World_and_Shimmer.md).
+
+**New production bottleneck:** Pollination cycles, reproductive mother's multi-year recovery, a large number of juveniles to feed, dangerous nursery land, juvenile survival, growth to useful mature size, transport to forest ranch, and local capture/loss. Reproduction may be prolific without permitting annual slaughter of adult breeding mothers.
+
+**Scenario example, not a species fact:** If 5 breeding mothers average a litter every 4 years, each yields 8 sprouts, and 50% eventually mature, adult-recruitment pipeline after age-to-maturity delay eventually yields ~5 recruits/year in steady state (5×8×0.5/4). This excludes additional breeding costs, female mortality, failed pollination, capital rearing and imports. Vary assumptions before adopting. The 20-adult ranch with 4 animals slaughtered/year can be supplied from a **separate nursery** in such a scenario, but must pay its acquisition/raising/transport and risk costs.
