@@ -317,3 +317,7 @@ Author favors alchemy for bulk refining, with lower mana per comparable output t
 ## November 24, 2026 — Bidirectional discharge compatibility
 
 Author approves bidirectional environmental compatibility between adjacent colors of the existing directed refining cycle. Retain native 1×, adjacent 2×, nonadjacent 4×, unmanaged Hex 8×. Supersedes immediate-predecessor-only interpretation. Lower-mana, bulk-superior alchemy forge direction endorsed; numerical rates remain tests. Natural ecological flow/geography under discussion. See 25 working benchmarks and codex industrial economy.
+
+## November 24, 2026 — Natural mana ecology direction
+
+Author endorses hybrid geography/mana cycling, mana richness and scarcity apart from ley lines, physical constraints on ecosystems, and qualitative possibilities of white-to-red geological activity and dam-based ecological engineering. Recorded in codex and 25 benchmarks. No new production multipliers, terraforming costs or discharge thresholds approved; existing compatibility scale remains operative pending reconsideration.
