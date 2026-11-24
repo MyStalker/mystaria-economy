@@ -307,3 +307,8 @@ Author agrees to prioritize credible business returns (optimized endgame recover
 ## November 24, 2026 — Mining talent, forge routes and discharge alignment
 
 Author sets mining benchmarks 5× ordinary trained / 100× top 2% / 1,000× nested top 2%, Hearthiron red-powered refining and alchemical ~2× efficiency target with significant mana and Hex costs, plus naturally aligned red discharge at least tenfold less consequential than depleted black and probably twentyfold less than unmanaged Hex in red regions. Recorded in [25 working benchmarks](25_Agricultural_and_Mana_Economy_Working_Benchmarks.md) and primary codex; exact efficiency metric and numerical costs remain open.
+
+
+## November 24, 2026 — Latest forge energy and environmental correction
+
+Author favors alchemy for bulk refining, with lower mana per comparable output than Hearthiron and additional Hex runoff; ~2× efficiency target retained. Revised relative discharge impact native 1×, compatible 2×, incompatible 4×, unmanaged Hex 8× supersedes 1/10/20. Compatibility based on feeding into native color on Nymbrin refining cycle (immediate predecessor as working interpretation). Exact mana consumption, production costs, pollution treatment and thresholds remain experimental. See 25 working benchmarks and codex industrial economy.
