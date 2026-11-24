@@ -1,3 +1,7 @@
+## November 24, 2026 — Springsteel rename and ancient salvage
+
+Author approved Springsteel replacing Thornspring, Nullporcelain shorthand, Serpent Steel, Slagstone, ancient machinery/codices and Verspryn protection. Updated working benchmarks; no numerical costs approved.
+
 ## November 24, 2026 — Author-established mining and material directions
 
 Updated 25 Agricultural and Mana Economy Working Benchmarks with material origins, restoration services, mana-rich ore, depth-linked resource value and security, and ancient salvage. No numeric prices or recipes approved. Springsteel/Thornspring naming unresolved.
