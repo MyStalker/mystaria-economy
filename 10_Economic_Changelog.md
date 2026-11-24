@@ -321,3 +321,9 @@ Author approves bidirectional environmental compatibility between adjacent color
 ## November 24, 2026 — Natural mana ecology direction
 
 Author endorses hybrid geography/mana cycling, mana richness and scarcity apart from ley lines, physical constraints on ecosystems, and qualitative possibilities of white-to-red geological activity and dam-based ecological engineering. Recorded in codex and 25 benchmarks. No new production multipliers, terraforming costs or discharge thresholds approved; existing compatibility scale remains operative pending reconsideration.
+
+
+## November 24, 2026 — Final approved directional hybrid discharge benchmark
+
+Author approves directional hybrid discharge impact weights: native 1×, immediate predecessor feeding native 2×, immediate successor fed by native 4×, nonadjacent colors 6×, unmanaged Hex 8×. Cycle red → blue → green → black → white → red. Supersedes symmetric 1/2/4/8 and all earlier alternatives. Blue environment example: blue 1, red 2, green 4, black/white 6, Hex 8. Applies to comparable concentrated depleted-mana discharge, not ordinary natural coexistence, absolute thresholds, or an MP-to-Hex conversion. Finite ecological capacity and natural directional circulation remain. Next study: ore extraction, concentration, freight and refining, comparing Hearthiron and lower-MP bulk-superior alchemy. No new ore grades or prices approved.
+ See 25 working benchmarks and primary codex industrial economy.
