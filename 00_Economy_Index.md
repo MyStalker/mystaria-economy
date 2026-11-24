@@ -72,3 +72,6 @@ This repository is intentionally not a replacement for approved main-codex equip
 
 
 - [24 Noble Meat Day Subsidy and Household Purchasing Power DRAFT](24_Noble_Meat_Day_Subsidy_and_Household_Purchasing_Power_DRAFT.md): user-approved noble sponsorship in most Canopy territories covers about half of communal Mossback Meat Day prices, with more for food-insecure families; model shows 4,000-town lord spends illustrative 133,120 silver accounting units yearly at 400g weekly meals and 3.20/unit kg full retail. Fiscal sustainability and event names open.
+
+
+- [25 Agricultural and Mana Economy Working Benchmarks](25_Agricultural_and_Mana_Economy_Working_Benchmarks.md): latest November 24 approvals, experimental wage/MP benchmarks, whole-farm productivity correction, crop profiles and household baseline. Use this before older economic drafts.

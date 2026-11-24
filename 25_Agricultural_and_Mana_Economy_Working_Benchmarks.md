@@ -1,0 +1,25 @@
+# Agricultural and Mana Economy — Approved directions and working benchmarks
+
+November 24, 2026. Distinguish author-approved directions from experimental numeric references. Not a finalized market price schedule. Author's latest explicit corrections supersede older economy drafts.
+
+## Controlling sources
+- [Canopy polity and mana economy](https://github.com/MyStalker/mystaria-codex/blob/main/39_Canopy_Kingdoms_and_Mana_Economy.md): citizenship, social institutions, industrial history, Nectar, mana refining.
+- [World and Shimmer](https://github.com/MyStalker/mystaria-codex/blob/main/01_World_and_Shimmer.md): latest crop approvals and whole-farm productivity clarification.
+- [24 Meat Day subsidy study](24_Noble_Meat_Day_Subsidy_and_Household_Purchasing_Power_DRAFT.md): household comparison baseline, not fixed Mossback costs.
+
+## Approved agricultural study framework
+Compare traditional farmhouse (1×), prosperous smallholding (3–5×), commercial farm (5–10×), industrial plantation (15–30×), exceptional estate (30–50×). These bands are overall marketable food output per total labor hour across the farming cycle, relative to a nonmagical traditional farmer, including attributable support labor. Not harvest-only, yield per acre, energy efficiency or guaranteed bonuses. Fully industrialized magitech targets 30× or more. Farm acreage is independent. Derive results from task-level assumptions, rotation, harvest frequencies, inputs, capital and supply chains. Ground-level fields dominate staples; elevated farms favor high-value/perishable products. Four security layers: ordinary barriers/pest control, symbiotic Starspawn (Wheathounds), wardens, regional Drakyn pack protection. Separate ordinary losses, security expenses and exceptional disaster risk.
+
+Rosewheat: dry 3,400 managmins/kg, W65 G15 B10 Black8 R2; approximately three months maturity, one harvest per suitable season. Working traditional 1–2, favorable 2–3, intensive 3–4 annual harvests. Prior 600 and 2,000–4,000 kg/acre/year traditional and advanced targets require recalibration, not per-harvest yield. Emberbeans: R33 W15 G25 B12 Black15, density/yield open. Cindercorn replaces Cindergrain; red/black drought-tolerant cereal of Scarlands border, numerical nutrition and exact morphology open.
+
+## Experimental accounting assumptions (latest handoff)
+- 240 working days/year; ordinary free unskilled wage 5 silver/day, value-added 6/day; experienced 6, artisan 8, skilled artisan 10, master 20/day. These supersede older 9/day unskilled trial for current modeling only.
+- Ordinary enslaved adult upkeep 350/year, child upkeep 60% of adult, illustrative family-adjusted upkeep per full-time worker 665/year. Separate pay, provisioning, labor value, family support, and surplus mana revenue. Leshy still need resources. Do not treat cost ledger as welfare or freedom.
+- Ordinary civilian 15 MP reference, demanding workday ~one reserve, combined short rests restore 50%, overnight replenishes. Industrial fuel half-life 30 days; Leywell collection ~90%; elemental crucibles 75–100%. Small machinery 3×, commercial 5–10× ordinary work per MP. Distinct from whole-farm output per hour.
+- Bulk prices per MP: white/green 0.08–0.15, blue 0.12–0.20, black 0.15–0.25, red 0.20–0.35; initial red fuel 0.25 silver/MP. Validate supply costs. Do not treat managmins as fuel MP.
+- Nectar fertilization 1–3 treatments/season; ~2× requirement without rotation, ~4× without rotation or rest. Exact application doses and labor remain open.
+
+## Momma Thornkin reference household
+Five people; provisional annual income 3,000, other living costs 1,695, grocery budget after existing allowances and Plenty Day half subsidy 1,078.792, residual 226.208. Preserve 10% grocery contingency exactly once and existing quantity/allowance accounting. Prior Mossback 3.20/kg full retail, 1.60/kg household price for 2kg/week is study 24 trial only, not canon. Other meat 2kg/week still at unvalidated 0.70/kg. Original weekly quantities/prices: grain/flour 12kg/.20; beans 3kg/.30; roots 10kg/.12; other vegetables 8kg/.20; fruit 7kg/.15; ordinary meat original 4kg/.70 (half displaced by Mossback in latest scenario); fish 1.5kg/.60; eggs 24/.045 each; milk 12L/.14; fats/oils 2kg/1.50; honey .5kg/.90. All prices experimental. Recalculate crops first, then full basket; not a second subsidy or contingency.
+
+No newly proposed farm costs or crop prices approved by this record.
