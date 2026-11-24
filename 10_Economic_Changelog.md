@@ -303,3 +303,7 @@ See [25 Agricultural and Mana Economy Working Benchmarks](25_Agricultural_and_Ma
 ## November 24, 2026 — Profitability and industrial supply study direction
 
 Author agrees to prioritize credible business returns (optimized endgame recovery plausibly 1–3 years, no guaranteed returns) and study machine production before companion crops. Ordinary mana-free Anvilcant, exceptional and legendary high-end workmanship vs bulk throughput, Scarlands mining concentration, comparatively precious Canopy mines, provisional Dirtmoles mining race, Worldcoil freight with locally fast segments and complementary parrot-folk/Skyvein transport recorded in main codex and [25 working benchmarks](25_Agricultural_and_Mana_Economy_Working_Benchmarks.md). No Rosewheat costs, machine prices, ore yields or freight rates newly ratified.
+
+## November 24, 2026 — Mining talent, forge routes and discharge alignment
+
+Author sets mining benchmarks 5× ordinary trained / 100× top 2% / 1,000× nested top 2%, Hearthiron red-powered refining and alchemical ~2× efficiency target with significant mana and Hex costs, plus naturally aligned red discharge at least tenfold less consequential than depleted black and probably twentyfold less than unmanaged Hex in red regions. Recorded in [25 working benchmarks](25_Agricultural_and_Mana_Economy_Working_Benchmarks.md) and primary codex; exact efficiency metric and numerical costs remain open.
