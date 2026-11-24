@@ -299,3 +299,7 @@ Author approves a culturally significant communal Mossback meat feast in **most 
 ## November 24, 2026 — Latest agricultural and mana economy benchmark reconciliation
 
 See [25 Agricultural and Mana Economy Working Benchmarks](25_Agricultural_and_Mana_Economy_Working_Benchmarks.md) and the controlling Codex references linked there. Author's latest whole-farm productivity correction supersedes harvest-only interpretation. Latest labor/upkeep and fuel-price benchmarks replace older scenario inputs for new trials, not fixed canon rates. Crop identity and nutrition approvals preserved; no new farm outputs, costs or prices approved.
+
+## November 24, 2026 — Profitability and industrial supply study direction
+
+Author agrees to prioritize credible business returns (optimized endgame recovery plausibly 1–3 years, no guaranteed returns) and study machine production before companion crops. Ordinary mana-free Anvilcant, exceptional and legendary high-end workmanship vs bulk throughput, Scarlands mining concentration, comparatively precious Canopy mines, provisional Dirtmoles mining race, Worldcoil freight with locally fast segments and complementary parrot-folk/Skyvein transport recorded in main codex and [25 working benchmarks](25_Agricultural_and_Mana_Economy_Working_Benchmarks.md). No Rosewheat costs, machine prices, ore yields or freight rates newly ratified.

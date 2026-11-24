@@ -75,3 +75,7 @@ This repository is intentionally not a replacement for approved main-codex equip
 
 
 - [25 Agricultural and Mana Economy Working Benchmarks](25_Agricultural_and_Mana_Economy_Working_Benchmarks.md): latest November 24 approvals, experimental wage/MP benchmarks, whole-farm productivity correction, crop profiles and household baseline. Use this before older economic drafts.
+
+## November 24 — Industrial study priority
+
+[25 Agricultural and Mana Economy Working Benchmarks](25_Agricultural_and_Mana_Economy_Working_Benchmarks.md) now includes approved business-return design direction (~1–3 year plausible optimized endgame recovery, not guaranteed), manufacturing-before-companion-crops study order, and new author directions on Anvilcant, mining and bulk logistics. All new production prices remain open.
