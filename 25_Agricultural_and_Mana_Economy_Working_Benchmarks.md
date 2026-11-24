@@ -1,3 +1,19 @@
+## November 24, 2026 — Author-established industrial material origins
+
+Boughsteel is ordinary carbon steel (predominantly iron with carbon). Adamantite is a naturally sourced distinct metal, important for military and high-end industrial machinery. The author calls the sophisticated iron/aluminium/small-silver clockwork alloy **Springsteel**; relationship of this name to established Thornspring remains OPEN, not a rename or new combat material ruling. Hearthiron is an iron/tungsten alloy; finite heat storage remains. Trufula is slowly cultivated wood fed almost exclusively green-mana-rich Beanstock juice; preserve existing physical and fire properties. Skyvein is a living alloy of Scarlands Pazara and aluminium, requiring Vital Essence nourishment for stability; retain negative weight and inertia. Exact starvation consequences and alloy recipes OPEN. Nullporcelain (Nullporc) is mana-nonconductive: magical energy slides off unless applied with extreme force; intended for industrial waste management and extreme mana concentrations. Ceramics use silica/sand base materials and are substantially stronger than terrestrial ceramics, making largely glass bridges/buildings feasible, but brittleness and lack of flex increase replacement needs. No new numeric resistance, recipes, throughput, Quality gates, equipment effects or Gem prices.
+
+Cross-trained Nymbrin Anvilcant clockwork specialists can offer exceptionally valuable restoration of machines to manufactured condition and potentially modernize them without losing original materials. Preserve lawful alchemy, material conservation, actual missing inputs, Hex and lawful craft qualifications; exact service cost, eligibility, procedures and longevity OPEN.
+
+---
+
+## November 24, 2026 — Author-established mining geology and subterranean ecology
+
+Ore deposits tend to be richer in areas of high mana concentration; no mandatory ley-line association or numeric grade multiplier. Subterranean Starspawn occupy vibrant ecological niches; green Starspawn can rival Dirtmole digging capability. Demons are the real threat. Mine security starts at least comparable to plains protection and escalates sharply with depth; deepest mines almost certainly need several legendary-quality fighters. Scarlands Drakyn may specialize in subterranean protection and preemptive lair clearance for settlements and mining ventures. Canopy surface wilderness, especially forest, has higher average danger than Scarlands surface travel for a Haze-inoculated fugitive; deep underground danger vastly exceeds even deepest Canopy forests. No fixed hazard rates, depths or combat levels.
+
+High-investment mines distinguish themselves through deeper access to more valuable ores suitable for higher-grade equipment and enchantment Gems, not merely greater common-ore volume. A separate mining/salvage industry dismantles colossal subterranean Serpentari structures for metal modern smiths cannot reforge and industrially valuable construction stone, particularly in stone-scarce Scarlands. No new ancient material name, extraction method, pricing, or entitlement to divine Gems; distinguish recovered enchantment resources from divine currency rules. See Smithcraft and Worldcoil references.
+
+---
+
 # Agricultural and Mana Economy — Approved directions and working benchmarks
 
 November 24, 2026. Distinguish author-approved directions from experimental numeric references. Not a finalized market price schedule. Author's latest explicit corrections supersede older economy drafts.
