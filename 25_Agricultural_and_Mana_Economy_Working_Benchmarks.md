@@ -1,3 +1,9 @@
+## November 24, 2026 — Ancient Codex reservoirs (AUTHOR ESTABLISHED)
+
+Ancient Codexes hold more mana than modern Codexes, are more durable, and often retain usable mana when recovered. Unlike modern rechargeable Codexes, ancient examples were not made for reuse: once depleted they cannot be recharged. Exact capacity, remaining charge, retention, durability statistics and prices remain open. Do not infer an exception to non-rechargeability from restoration services or alter modern Codex mechanics. Ancient reserves are finite salvage resources, not recurring industrial fuel supply.
+
+---
+
 ## November 24, 2026 — Author-approved Springsteel and ancient salvage materials
 
 Springsteel officially replaces Thornspring (iron/aluminium/small-silver alloy); all existing equipment mechanics remain unchanged. Nullporc and Porcelain are accepted shorthand for Nullporcelain. Serpent Steel (Snakesteel) is ancient living Adamantite/Springsteel/Pazara alloy, sustaining itself indefinitely underground by siphoning depleted soil mana. Adamantite-equivalent structural strength at lower cost; principal uses are deep-mine reinforcement, underground construction/foundations, and smelting to reclaim Adamantite and Springsteel. Conventional reforging kills Pazara; Adamantite-like sword stats remain tentative. Slagstone is tough mana-activated limestone freely liquefied and recemented at modest mana cost for rapid assembly/disassembly. Mines can reuse both materials. Ancient codices and Kobold machines occasionally exceed modern capabilities. Verspryn professional demon slayers complement Scarlands Drakyn protection. Exact recipes, prices, recovery yields, MP and security contracts remain open. See [Smithcraft](https://github.com/MyStalker/mystaria-codex/blob/main/07_Centaurs_and_Smithcraft.md). Snakestone as formal alias remains unconfirmed.
