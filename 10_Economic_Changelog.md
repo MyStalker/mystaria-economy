@@ -1,3 +1,7 @@
+## November 24, 2026 — Author-established mining and material directions
+
+Updated 25 Agricultural and Mana Economy Working Benchmarks with material origins, restoration services, mana-rich ore, depth-linked resource value and security, and ancient salvage. No numeric prices or recipes approved. Springsteel/Thornspring naming unresolved.
+
 # Mystaria Economy: Decision Changelog
 
 ## 2026-11-21 — Foundation: Author-described currency, slavery, and non-Hero goals
