@@ -1,3 +1,7 @@
+## November 24 — Ancient industrial materials
+
+See [25 Agricultural and Mana Economy Working Benchmarks](25_Agricultural_and_Mana_Economy_Working_Benchmarks.md) for Springsteel rename, Serpent Steel, Slagstone, deep mining reuse and protection. Prior name ambiguity superseded.
+
 # Mystaria Living Economy: Index
 
 **Authority:** Author's latest explicit approval > applicable approved subject canon in [mystaria-codex](https://github.com/MyStalker/mystaria-codex) > approved economic notes here > drafts. Do not imply new mundane figures change divine-shop tariffs.
