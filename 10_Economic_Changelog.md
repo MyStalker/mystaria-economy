@@ -312,3 +312,8 @@ Author sets mining benchmarks 5× ordinary trained / 100× top 2% / 1,000× nest
 ## November 24, 2026 — Latest forge energy and environmental correction
 
 Author favors alchemy for bulk refining, with lower mana per comparable output than Hearthiron and additional Hex runoff; ~2× efficiency target retained. Revised relative discharge impact native 1×, compatible 2×, incompatible 4×, unmanaged Hex 8× supersedes 1/10/20. Compatibility based on feeding into native color on Nymbrin refining cycle (immediate predecessor as working interpretation). Exact mana consumption, production costs, pollution treatment and thresholds remain experimental. See 25 working benchmarks and codex industrial economy.
+
+
+## November 24, 2026 — Bidirectional discharge compatibility
+
+Author approves bidirectional environmental compatibility between adjacent colors of the existing directed refining cycle. Retain native 1×, adjacent 2×, nonadjacent 4×, unmanaged Hex 8×. Supersedes immediate-predecessor-only interpretation. Lower-mana, bulk-superior alchemy forge direction endorsed; numerical rates remain tests. Natural ecological flow/geography under discussion. See 25 working benchmarks and codex industrial economy.
