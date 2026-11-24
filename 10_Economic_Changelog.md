@@ -1,3 +1,9 @@
+## November 24, 2026 — Ancient Codex reservoirs (AUTHOR ESTABLISHED)
+
+Ancient Codexes hold more mana than modern Codexes, are more durable, and often retain usable mana when recovered. Unlike modern rechargeable Codexes, ancient examples were not made for reuse: once depleted they cannot be recharged. Exact capacity, remaining charge, retention, durability statistics and prices remain open. Do not infer an exception to non-rechargeability from restoration services or alter modern Codex mechanics. Ancient reserves are finite salvage resources, not recurring industrial fuel supply.
+
+---
+
 ## November 24, 2026 — Springsteel rename and ancient salvage
 
 Author approved Springsteel replacing Thornspring, Nullporcelain shorthand, Serpent Steel, Slagstone, ancient machinery/codices and Verspryn protection. Updated working benchmarks; no numerical costs approved.
