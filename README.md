@@ -21,4 +21,8 @@ This repository develops currencies, markets, labor, industry, trade, household 
 ## Scope and design goals
 Construct a credible society from production and consumption first, not arbitrary fantasy price lists. Model enslaved and free populations distinctly, with meaningful labor, household costs, property, logistics, monetary scarcity, and regional markets. Make non-Hero play and advancement possible without assuming patron-provided rewards.
 
-**No ordinary wages, currency exchange ratios, Vitae prices, or regional price indexes are yet approved here.**
+**Approval status varies by subject. Consult the current economic index, changelog and owning canon references before applying any wage, price or benchmark. Older draft figures do not supersede later author approvals.**
+
+## Public Living Codex publishing
+
+The [Living Codex](https://resonant-genie-1ee11c.netlify.app/) renders reviewed public sections from this repository. Its [website source and inclusion policy](https://github.com/MyStalker/mystaria-living-codex) remain separate from canon. Main-branch Markdown changes trigger a validated Netlify rebuild through the `Publish Living Codex` workflow; the build-hook URL is kept in the encrypted `LIVING_CODEX_BUILD_HOOK` repository secret. A cloud reconciliation fallback checks source heads every two hours. Private campaign material is excluded, and experiments/proposals retain their approval boundaries. Publishing automation does not approve new canon.
